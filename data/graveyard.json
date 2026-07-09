@@ -1,0 +1,141 @@
+{
+  "name": "ai-graveyard",
+  "description": "Discontinued AI tools, with shutdown dates and evidence links — so agents stop recommending tools that no longer exist.",
+  "homepage": "https://aitrendtool.com/stats/ai-graveyard",
+  "license": "CC-BY-4.0",
+  "attribution": "AITrendTool.com — CC BY 4.0 — https://aitrendtool.com/methodology",
+  "lastUpdated": "2026-07-05",
+  "count": 13,
+  "entries": [
+    {
+      "slug": "sora-consumer-app",
+      "name": "Sora (consumer app)",
+      "category": "Video generation",
+      "whatItDid": "OpenAI's text-to-video app and web feed for generating and sharing AI video.",
+      "shutdownDate": "2026-04-26",
+      "evidenceUrl": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+      "evidenceSource": "OpenAI Help Center",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "phind",
+      "name": "Phind",
+      "category": "Developer search",
+      "whatItDid": "AI answer engine for developers that combined web search with code-tuned models.",
+      "shutdownDate": "2026-01-16",
+      "evidenceUrl": "https://intelligenttools.co/blog/improved-phind-shutdown-post",
+      "evidenceSource": "IntelligentTools (shutdown post-mortem)",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "playht",
+      "name": "PlayHT (PlayAI)",
+      "category": "Voice generation",
+      "whatItDid": "Voice cloning and text-to-speech platform with a developer API.",
+      "shutdownDate": "2025-12-31",
+      "evidenceUrl": "https://inworld.ai/resources/migrate-from-playht",
+      "evidenceSource": "Inworld (migration guide)",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "cody-free-pro",
+      "name": "Sourcegraph Cody Free & Pro",
+      "category": "Coding assistant",
+      "whatItDid": "Free and Pro tiers of Sourcegraph's AI coding assistant for individual developers.",
+      "shutdownDate": "2025-07-23",
+      "evidenceUrl": "https://sourcegraph.com/blog/changes-to-cody-free-pro-and-enterprise-starter-plans",
+      "evidenceSource": "Sourcegraph (official)",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "tome-slides",
+      "name": "Tome (Slides)",
+      "category": "Presentations",
+      "whatItDid": "AI-native presentation maker that generated slide decks from prompts; reached 20M+ signups.",
+      "shutdownDate": "2025-04",
+      "evidenceUrl": "https://deckary.com/blog/tome-review",
+      "evidenceSource": "Deckary (shutdown timeline)",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "humane-ai-pin",
+      "name": "Humane AI Pin",
+      "category": "AI hardware",
+      "whatItDid": "$699 wearable AI assistant with voice control and a laser-projection display.",
+      "shutdownDate": "2025-02-28",
+      "evidenceUrl": "https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/",
+      "evidenceSource": "TechCrunch",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "fig",
+      "name": "Fig",
+      "category": "Developer tools",
+      "whatItDid": "IDE-style terminal autocomplete with AI natural-language-to-shell translation; acquired by AWS in 2023.",
+      "shutdownDate": "2024-09-01",
+      "evidenceUrl": "https://fig.io/blog/post/fig-is-sunsetting",
+      "evidenceSource": "Fig (official)",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "artifact",
+      "name": "Artifact",
+      "category": "News reader",
+      "whatItDid": "AI-personalized news app from Instagram co-founders Kevin Systrom and Mike Krieger.",
+      "shutdownDate": "2024-04",
+      "evidenceUrl": "https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419",
+      "evidenceSource": "Artifact (official)",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "clyde-discord",
+      "name": "Clyde (Discord)",
+      "category": "Chatbot",
+      "whatItDid": "Discord's experimental OpenAI-powered chatbot built into DMs and servers.",
+      "shutdownDate": "2023-12-01",
+      "evidenceUrl": "https://www.engadget.com/discord-is-already-killing-clyde-its-experimental-openai-chatbot-155231238.html",
+      "evidenceSource": "Engadget",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "olive-ai",
+      "name": "Olive AI",
+      "category": "Healthcare automation",
+      "whatItDid": "Healthcare revenue-cycle automation marketed as AI workers; once valued at $4B.",
+      "shutdownDate": "2023-10-31",
+      "evidenceUrl": "https://www.healthcaredive.com/news/olive-ai-shuts-down/698455/",
+      "evidenceSource": "Healthcare Dive",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "cortana-app",
+      "name": "Cortana (standalone app)",
+      "category": "Voice assistant",
+      "whatItDid": "Microsoft's voice assistant as a standalone Windows app.",
+      "shutdownDate": "2023-08",
+      "evidenceUrl": "https://support.microsoft.com/en-us/cortana/end-of-support-for-cortana",
+      "evidenceSource": "Microsoft Support (official)",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "vowel",
+      "name": "Vowel",
+      "category": "Meetings",
+      "whatItDid": "Video-meeting platform with built-in AI summaries, transcription, and action items.",
+      "shutdownDate": "2023-07",
+      "evidenceUrl": "https://otter.ai/blog/smooth-transition-moving-from-vowel-to-otter-ai-as-vowel-shuts-down",
+      "evidenceSource": "Otter.ai blog",
+      "verifiedDate": "2026-07-05"
+    },
+    {
+      "slug": "neeva",
+      "name": "Neeva",
+      "category": "Search engine",
+      "whatItDid": "Ad-free subscription search engine with early generative-AI answers, founded by ex-Google ad executives.",
+      "shutdownDate": "2023-06-02",
+      "evidenceUrl": "https://siliconangle.com/2023/05/21/google-search-competitor-neeva-shuts-focus-enterprise/",
+      "evidenceSource": "SiliconANGLE",
+      "verifiedDate": "2026-07-05"
+    }
+  ]
+}

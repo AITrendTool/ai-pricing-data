@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "tagline": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "pricing": {
+      "type": "object",
+      "properties": {
+        "model": {
+          "type": "string",
+          "enum": [
+            "free",
+            "freemium",
+            "paid",
+            "open-source",
+            "usage-based",
+            "contact"
+          ]
+        },
+        "hasFreeTier": {
+          "type": "boolean"
+        },
+        "startingPrice": {
+          "type": "string"
+        },
+        "tiers": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "price": {
+                "type": "string"
+              },
+              "period": {
+                "default": "month",
+                "type": "string"
+              },
+              "highlights": {
+                "default": [],
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            },
+            "required": [
+              "name",
+              "price",
+              "period",
+              "highlights"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "verifiedDate": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "model",
+        "hasFreeTier",
+        "startingPrice",
+        "tiers",
+        "verifiedDate"
+      ],
+      "additionalProperties": false
+    },
+    "platforms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "hasAPI": {
+      "default": false,
+      "type": "boolean"
+    },
+    "status": {
+      "type": "string"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "aitrendtoolUrl": {
+      "type": "string",
+      "format": "uri"
+    }
+  },
+  "required": [
+    "slug",
+    "name",
+    "tagline",
+    "website",
+    "categories",
+    "pricing",
+    "platforms",
+    "hasAPI",
+    "status",
+    "sources",
+    "aitrendtoolUrl"
+  ],
+  "additionalProperties": false,
+  "$id": "https://raw.githubusercontent.com/aitrendtool/ai-pricing-data/main/schema/tool.schema.json",
+  "title": "AITrendTool verified AI-tool pricing record"
+}

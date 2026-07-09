@@ -1,0 +1,28 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+=========================================================
+
+The data in this directory (and in ../schema/) is licensed under the Creative
+Commons Attribution 4.0 International License.
+
+You are free to:
+  - Share  — copy and redistribute the material in any medium or format
+  - Adapt  — remix, transform, and build upon the material for any purpose,
+             even commercially.
+
+Under the following term:
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any reasonable
+    manner, but not in any way that suggests the licensor endorses you or your
+    use.
+
+Required attribution:
+
+    Pricing data by AITrendTool.com, CC BY 4.0.
+    Source: https://aitrendtool.com/methodology
+
+Each record also includes an `aitrendtoolUrl` field linking to the page where
+that price was verified — keeping this field satisfies the attribution
+requirement in machine-readable form.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/

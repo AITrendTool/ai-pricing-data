@@ -1,0 +1,23 @@
+{
+  "name": "ai-pricing-data",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Open, date-stamped AI-tool pricing — hand-verified with a verifiedDate, re-checked weekly. JSON/CSV + JSON Schema, CC BY 4.0.",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://aitrendtool.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aitrendtool/ai-pricing-data"
+  },
+  "scripts": {
+    "export": "node scripts/export-dataset.mjs",
+    "render": "node scripts/render-readme.mjs",
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/export-dataset.mjs && node scripts/render-readme.mjs"
+  },
+  "devDependencies": {
+    "yaml": "^2.5.0",
+    "zod": "^4.4.3"
+  }
+}
