@@ -7,7 +7,7 @@
   "attribution": "AITrendTool.com — CC BY 4.0 — https://aitrendtool.com/methodology",
   "asOf": "2026-07-08",
   "generatedAt": "2026-07-08T22:47:19.705Z",
-  "count": 169,
+  "count": 168,
   "tools": [
     {
       "slug": "adcreative-ai",
@@ -5237,89 +5237,6 @@
         "https://platform.minimax.io/docs/guides/pricing-video"
       ],
       "aitrendtoolUrl": "https://aitrendtool.com/tools/hailuo-ai"
-    },
-    {
-      "slug": "hedra",
-      "name": "Hedra",
-      "tagline": "AI video platform whose Character-3 model turns an image plus audio or text into lip-synced talking-character videos in 140+ languages",
-      "website": "https://www.hedra.com/",
-      "categories": [
-        "ai-video"
-      ],
-      "pricing": {
-        "model": "freemium",
-        "hasFreeTier": true,
-        "startingPrice": "$15/mo",
-        "tiers": [
-          {
-            "name": "Free",
-            "price": "Free",
-            "period": "free",
-            "highlights": [
-              "Limited monthly credits",
-              "Watermarked output",
-              "Non-commercial use only",
-              "Slower generation, no card required"
-            ]
-          },
-          {
-            "name": "Basic",
-            "price": "$15/mo",
-            "period": "month",
-            "highlights": [
-              "1,500 credits per month",
-              "Commercial use and no watermark",
-              "Slower generation speed",
-              "Credits do not roll over"
-            ]
-          },
-          {
-            "name": "Creator",
-            "price": "$30/mo",
-            "period": "month",
-            "highlights": [
-              "5,400 credits per month (about 11 minutes of 720p Character-3 video)",
-              "Faster generation",
-              "Commercial use, extra credits purchasable",
-              "Credits do not roll over"
-            ]
-          },
-          {
-            "name": "Professional",
-            "price": "$75/mo",
-            "period": "month",
-            "highlights": [
-              "14,400 credits per month",
-              "Fastest generation and team access",
-              "Commercial use, extra credits purchasable",
-              "Credits do not roll over"
-            ]
-          },
-          {
-            "name": "Enterprise",
-            "price": "Custom",
-            "period": "custom",
-            "highlights": [
-              "Custom credit volume and private deployments",
-              "SSO and dedicated support",
-              "Account manager",
-              "Legal and security review"
-            ]
-          }
-        ],
-        "verifiedDate": "2026-06-30"
-      },
-      "platforms": [
-        "web",
-        "api"
-      ],
-      "hasAPI": true,
-      "status": "active",
-      "sources": [
-        "https://www.hedra.com/pricing",
-        "https://www.hedra.com/"
-      ],
-      "aitrendtoolUrl": "https://aitrendtool.com/tools/hedra"
     },
     {
       "slug": "heygen",

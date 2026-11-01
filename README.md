@@ -1,6 +1,6 @@
 # ai-pricing-data
 
-**All 169 AI-tool prices verified as of 2026-07-08.**
+**All 168 AI-tool prices verified as of 2026-07-08.**
 Open, date-stamped pricing for real consumer AI tools — not just LLM API tokens.
 Every price carries a `verifiedDate`, real source URLs, and a link back to the page where it was verified.
 
@@ -19,7 +19,7 @@ curl -s https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/pricing.jso
 
 | Format | URL |
 | --- | --- |
-| JSON (all 169 tools) | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/pricing.json` |
+| JSON (all 168 tools) | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/pricing.json` |
 | CSV (spreadsheet / BI) | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/pricing.csv` |
 | JSON Schema | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/schema/tool.schema.json` |
 | Graveyard (dead tools) | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/graveyard.json` |
@@ -47,7 +47,7 @@ Drop it into your agent's context — see [`examples/agent-context.md`](examples
 | [Filmora](https://aitrendtool.com/tools/filmora) | freemium | ✅ | $49.99/yr | 2026-07-06 |
 | [GPTZero](https://aitrendtool.com/tools/gptzero) | freemium | ✅ | $8.33/mo | 2026-07-06 |
 
-→ full table of 169 tools in [`data/pricing.json`](data/pricing.json). Every record links back to its verification page on aitrendtool.com.
+→ full table of 168 tools in [`data/pricing.json`](data/pricing.json). Every record links back to its verification page on aitrendtool.com.
 
 ## This week's price changes
 
