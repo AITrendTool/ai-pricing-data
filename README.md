@@ -1,6 +1,6 @@
 # ai-pricing-data
 
-**All 168 AI-tool prices verified as of 2026-07-08.**
+**301 AI-tool prices, each stamped with the date it was verified. Latest check: 2026-11-16.**
 Open, date-stamped pricing for real consumer AI tools — not just LLM API tokens.
 Every price carries a `verifiedDate`, real source URLs, and a link back to the page where it was verified.
 
@@ -19,7 +19,7 @@ curl -s https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/pricing.jso
 
 | Format | URL |
 | --- | --- |
-| JSON (all 168 tools) | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/pricing.json` |
+| JSON (all 301 tools) | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/pricing.json` |
 | CSV (spreadsheet / BI) | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/pricing.csv` |
 | JSON Schema | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/schema/tool.schema.json` |
 | Graveyard (dead tools) | `https://cdn.jsdelivr.net/gh/aitrendtool/ai-pricing-data/data/graveyard.json` |
@@ -31,27 +31,46 @@ Drop it into your agent's context — see [`examples/agent-context.md`](examples
 
 | Tool | Model | Free tier | Starting price | Verified |
 | --- | --- | :---: | --- | --- |
-| [Beautiful.ai](https://aitrendtool.com/tools/beautiful-ai) | paid | — | $12/mo | 2026-07-08 |
-| [Colossyan](https://aitrendtool.com/tools/colossyan) | freemium | ✅ | $59/mo | 2026-07-08 |
-| [Dia](https://aitrendtool.com/tools/dia) | freemium | ✅ | $20/mo | 2026-07-08 |
-| [Fin](https://aitrendtool.com/tools/fin) | usage-based | — | $0.99/outcome | 2026-07-08 |
-| [Greptile](https://aitrendtool.com/tools/greptile) | freemium | ✅ | $30/mo | 2026-07-08 |
-| [Originality.ai](https://aitrendtool.com/tools/originality-ai) | usage-based | — | $14.95/mo | 2026-07-08 |
-| [ProWritingAid](https://aitrendtool.com/tools/prowritingaid) | freemium | ✅ | $30/mo | 2026-07-08 |
-| [Remini](https://aitrendtool.com/tools/remini) | freemium | ✅ | $6.99/week | 2026-07-08 |
-| [Replika](https://aitrendtool.com/tools/replika) | freemium | ✅ | $19.99/mo | 2026-07-08 |
-| [Voicemod](https://aitrendtool.com/tools/voicemod) | freemium | ✅ | $0 | 2026-07-08 |
-| [Clay](https://aitrendtool.com/tools/clay) | freemium | ✅ | $167/mo | 2026-07-06 |
-| [DeepL](https://aitrendtool.com/tools/deepl) | freemium | ✅ | $8.74/mo | 2026-07-06 |
-| [fal](https://aitrendtool.com/tools/fal) | usage-based | — | $0.02/megapixel | 2026-07-06 |
-| [Filmora](https://aitrendtool.com/tools/filmora) | freemium | ✅ | $49.99/yr | 2026-07-06 |
-| [GPTZero](https://aitrendtool.com/tools/gptzero) | freemium | ✅ | $8.33/mo | 2026-07-06 |
+| [Adobe Firefly](https://aitrendtool.com/tools/adobe-firefly) | freemium | ✅ | $9.99/mo | 2026-11-16 |
+| [Adobe Podcast](https://aitrendtool.com/tools/adobe-podcast) | freemium | ✅ | $0 | 2026-11-16 |
+| [Augment Code](https://aitrendtool.com/tools/augment-code) | usage-based | — | $20/mo | 2026-11-16 |
+| [Auto-Respond](https://aitrendtool.com/tools/auto-respond) | paid | — | $19/mo | 2026-11-16 |
+| [Boomy](https://aitrendtool.com/tools/boomy) | freemium | ✅ | $9.99/mo | 2026-11-16 |
+| [Braintrust](https://aitrendtool.com/tools/braintrust) | freemium | ✅ | $0 | 2026-11-16 |
+| [Bria AI](https://aitrendtool.com/tools/bria-ai) | usage-based | ✅ | $0 | 2026-11-16 |
+| [CapCut](https://aitrendtool.com/tools/capcut) | freemium | ✅ | $19.99/mo | 2026-11-16 |
+| [Captions](https://aitrendtool.com/tools/captions) | freemium | ✅ | $9.99/mo (iOS app) | 2026-11-16 |
+| [Coda](https://aitrendtool.com/tools/coda) | freemium | ✅ | $0 | 2026-11-16 |
+| [Creatify](https://aitrendtool.com/tools/creatify) | freemium | ✅ | $15/mo | 2026-11-16 |
+| [Crush](https://aitrendtool.com/tools/crush) | freemium | ✅ | $10/mo | 2026-11-16 |
+| [Devin](https://aitrendtool.com/tools/devin) | freemium | ✅ | $20/mo | 2026-11-16 |
+| [Dia](https://aitrendtool.com/tools/dia) | freemium | ✅ | $10/mo | 2026-11-16 |
+| [Elicit](https://aitrendtool.com/tools/elicit) | freemium | ✅ | $49/mo | 2026-11-16 |
 
-→ full table of 168 tools in [`data/pricing.json`](data/pricing.json). Every record links back to its verification page on aitrendtool.com.
+→ full table of 301 tools in [`data/pricing.json`](data/pricing.json). Every record links back to its verification page on aitrendtool.com.
 
 ## This week's price changes
 
-_Baseline snapshot — the weekly price-change diff appears here after the next re-verification pass._
+- Abacus.AI: added ($10/mo)
+- Activepieces: added ($0)
+- Ada: added (Custom)
+- Adobe Podcast: added ($0)
+- Amazon Q Developer: added ($19/mo)
+- Anyword: added ($49/mo)
+- Apify: added ($29/mo)
+- Arcade: added ($25/mo)
+- Argil: added ($39/mo)
+- Async: added ($14.99/mo)
+- Auto-Respond: added ($19/mo)
+- Base44: added ($16/mo)
+- Baseten: added ($0)
+- Beatoven.ai: added ($6/mo)
+- Blackbox AI: added ($10/mo)
+- Boomy: added ($9.99/mo)
+- Botpress: added ($150/mo)
+- Braintrust: added ($0)
+- Bria AI: added ($0)
+- Browserbase: added ($20/mo)
 
 ## Killed by AI — the graveyard
 
@@ -74,7 +93,7 @@ Each tool record (see [`schema/tool.schema.json`](schema/tool.schema.json)):
     "hasFreeTier": true,
     "startingPrice": "$20/mo",
     "tiers": [ { "name": "Pro", "price": "$20/mo", "period": "month", "highlights": ["..."] } ],
-    "verifiedDate": "2026-07-08"   // ISO date this price was last checked against the official page
+    "verifiedDate": "2026-11-16"   // ISO date this price was last checked against the official page
   },
   "platforms": ["desktop"],
   "hasAPI": false,
@@ -92,7 +111,7 @@ Each price is checked by hand against the tool's official pricing page and stamp
 
 ## Freshness guarantee (and how it's enforced)
 
-The "verified as of" date above is not a promise — it's enforced. CI ([`.github/workflows/regenerate.yml`](.github/workflows/regenerate.yml)) runs `scripts/validate.mjs`, which **fails the build** if any published price goes staler than the methodology window. So this header can't silently become a lie.
+The dates above are not a promise — they are checked. CI ([`.github/workflows/regenerate.yml`](.github/workflows/regenerate.yml)) runs `scripts/validate.mjs`, which **fails the build** while any published price is staler than the 45-day window. So the header can't silently become a lie.
 
 ## License & attribution
 

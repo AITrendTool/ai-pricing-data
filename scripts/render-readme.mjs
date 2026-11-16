@@ -51,9 +51,18 @@ const graveLine = grave
   ? `${grave.count} discontinued AI tools with shutdown dates + evidence links → [\`data/graveyard.json\`](data/graveyard.json)`
   : '';
 
+// The headline states what the data shows. "All … verified in the N days to …" is
+// printed only when every row is inside the window that scripts/validate.mjs enforces.
+const WINDOW_DAYS = Number(process.env.FRESHNESS_DAYS || 45);
+const windowStart = new Date(new Date(ds.asOf).getTime() - WINDOW_DAYS * 86400_000).toISOString().slice(0, 10);
+const inWindow = ds.tools.filter((t) => t.pricing.verifiedDate >= windowStart).length;
+const headline = inWindow === ds.count
+  ? `**All ${ds.count} AI-tool prices verified in the ${WINDOW_DAYS} days to ${ds.asOf}.**`
+  : `**${ds.count} AI-tool prices, each stamped with the date it was verified. Latest check: ${ds.asOf}.**`;
+
 const out = `# ai-pricing-data
 
-**All ${ds.count} AI-tool prices verified as of ${ds.asOf}.**
+${headline}
 Open, date-stamped pricing for real consumer AI tools — not just LLM API tokens.
 Every price carries a \`verifiedDate\`, real source URLs, and a link back to the page where it was verified.
 
@@ -129,7 +138,7 @@ Each price is checked by hand against the tool's official pricing page and stamp
 
 ## Freshness guarantee (and how it's enforced)
 
-The "verified as of" date above is not a promise — it's enforced. CI ([\`.github/workflows/regenerate.yml\`](.github/workflows/regenerate.yml)) runs \`scripts/validate.mjs\`, which **fails the build** if any published price goes staler than the methodology window. So this header can't silently become a lie.
+The dates above are not a promise — they are checked. CI ([\`.github/workflows/regenerate.yml\`](.github/workflows/regenerate.yml)) runs \`scripts/validate.mjs\`, which **fails the build** while any published price is staler than the ${WINDOW_DAYS}-day window. So the header can't silently become a lie.
 
 ## License & attribution
 

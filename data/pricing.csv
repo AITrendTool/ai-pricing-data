@@ -1,169 +1,302 @@
 slug,name,model,hasFreeTier,startingPrice,platforms,hasAPI,status,category,verifiedDate,website,aitrendtoolUrl
+abacus-ai,Abacus.AI,paid,false,$10/mo,web|desktop|cli|api,true,active,ai-chatbots,2026-11-14,https://abacus.ai/,https://aitrendtool.com/tools/abacus-ai
+activepieces,Activepieces,open-source,true,$0,web|api,true,active,ai-agents-automation,2026-07-19,https://www.activepieces.com/,https://aitrendtool.com/tools/activepieces
+ada,Ada,contact,false,Custom,web|api,true,active,ai-agents-automation,2026-07-20,https://www.ada.cx/,https://aitrendtool.com/tools/ada
 adcreative-ai,AdCreative.ai,paid,false,$39/mo,web,false,active,ai-writing-marketing,2026-07-03,https://www.adcreative.ai/,https://aitrendtool.com/tools/adcreative-ai
-adobe-firefly,Adobe Firefly,freemium,true,$9.99/mo,web|mobile|api,true,active,ai-image-generation,2026-06-11,https://firefly.adobe.com/,https://aitrendtool.com/tools/adobe-firefly
+adobe-firefly,Adobe Firefly,freemium,true,$9.99/mo,web|mobile|api,true,active,ai-image-generation,2026-11-16,https://firefly.adobe.com/,https://aitrendtool.com/tools/adobe-firefly
+adobe-podcast,Adobe Podcast,freemium,true,$0,web,false,active,ai-audio-music,2026-11-16,https://podcast.adobe.com/,https://aitrendtool.com/tools/adobe-podcast
 aider,Aider,open-source,true,$0,cli,false,active,ai-coding,2026-06-22,https://aider.chat/,https://aitrendtool.com/tools/aider
 airtable,Airtable,freemium,true,$20/user/mo,web|mobile|api,true,active,ai-agents-automation,2026-07-03,https://www.airtable.com/,https://aitrendtool.com/tools/airtable
-aiva,AIVA,freemium,true,€11/mo,web,false,active,ai-audio-music,2026-06-30,https://www.aiva.ai/,https://aitrendtool.com/tools/aiva
+aiva,AIVA,freemium,true,€11/mo,web,false,active,ai-audio-music,2026-11-07,https://www.aiva.ai/,https://aitrendtool.com/tools/aiva
+amazon-q-developer,Amazon Q Developer,freemium,true,$19/mo,extension|cli|web,false,active,ai-coding,2026-07-10,https://aws.amazon.com/q/developer/,https://aitrendtool.com/tools/amazon-q-developer
 amp,Amp,usage-based,true,$0,cli|extension|web|api,true,active,ai-coding,2026-06-28,https://ampcode.com/,https://aitrendtool.com/tools/amp
 anomaly-ai,Anomaly AI,freemium,true,$16/mo,web,false,active,ai-productivity,2026-06-26,https://www.findanomaly.ai/,https://aitrendtool.com/tools/anomaly-ai
-assemblyai,AssemblyAI,usage-based,true,$0.15/hr,api,true,active,ai-audio-music,2026-06-23,https://www.assemblyai.com/,https://aitrendtool.com/tools/assemblyai
-augment-code,Augment Code,usage-based,false,$20/mo,extension|cli|web|api,true,active,ai-coding,2026-06-30,https://www.augmentcode.com/,https://aitrendtool.com/tools/augment-code
+anyword,Anyword,paid,false,$49/mo,web|api|extension,true,active,ai-writing-marketing,2026-07-11,https://www.anyword.com/,https://aitrendtool.com/tools/anyword
+apify,Apify,freemium,true,$29/mo,web|api|cli,true,active,ai-agents-automation,2026-07-30,https://apify.com/,https://aitrendtool.com/tools/apify
+arcade,Arcade,freemium,true,$25/mo,web|api|cli,true,active,ai-agents-automation,2026-11-09,https://www.arcade.dev/,https://aitrendtool.com/tools/arcade
+argil,Argil,paid,false,$39/mo,web|api,true,active,ai-video,2026-07-17,https://www.argil.ai/,https://aitrendtool.com/tools/argil
+assemblyai,AssemblyAI,usage-based,true,$0.15/hr,api,true,active,ai-audio-music,2026-11-15,https://www.assemblyai.com/,https://aitrendtool.com/tools/assemblyai
+async,Async,freemium,true,$14.99/mo,web|mobile|api,true,active,ai-audio-music,2026-07-15,https://async.com/,https://aitrendtool.com/tools/async
+augment-code,Augment Code,usage-based,false,$20/mo,extension|cli|web|api,true,active,ai-coding,2026-11-16,https://www.augmentcode.com/,https://aitrendtool.com/tools/augment-code
+auto-respond,Auto-Respond,paid,false,$19/mo,web|api,true,active,ai-agents-automation,2026-11-16,https://auto-respond.com/,https://aitrendtool.com/tools/auto-respond
 bardeen,Bardeen,freemium,true,$10/mo,extension|web,false,active,ai-agents-automation,2026-06-28,https://www.bardeen.ai/,https://aitrendtool.com/tools/bardeen
+base44,Base44,freemium,true,$16/mo,web,false,active,ai-coding,2026-07-10,https://base44.com/,https://aitrendtool.com/tools/base44
+baseten,Baseten,usage-based,false,$0,web|api|cli,true,active,ai-agents-automation,2026-10-23,https://www.baseten.co/,https://aitrendtool.com/tools/baseten
+beatoven-ai,Beatoven.ai,freemium,true,$6/mo,web|api,true,active,ai-audio-music,2026-07-23,https://www.beatoven.ai/,https://aitrendtool.com/tools/beatoven-ai
 beautiful-ai,Beautiful.ai,paid,false,$12/mo,web,false,active,ai-design,2026-07-08,https://www.beautiful.ai,https://aitrendtool.com/tools/beautiful-ai
 beehiiv,Beehiiv,freemium,true,$43/mo,web,true,active,ai-writing-marketing,2026-07-03,https://www.beehiiv.com/,https://aitrendtool.com/tools/beehiiv
+blackbox-ai,Blackbox AI,freemium,true,$10/mo,web|extension|cli|api,true,active,ai-coding,2026-07-12,https://www.blackbox.ai/,https://aitrendtool.com/tools/blackbox-ai
 bolt-new,Bolt.new,freemium,true,$25/mo,web,false,active,ai-coding,2026-07-03,https://bolt.new/,https://aitrendtool.com/tools/bolt-new
+boomy,Boomy,freemium,true,$9.99/mo,web,false,active,ai-audio-music,2026-11-16,https://boomy.com/,https://aitrendtool.com/tools/boomy
+botpress,Botpress,freemium,true,$150/mo,web|api|cli,true,active,ai-chatbots,2026-07-16,https://botpress.com/,https://aitrendtool.com/tools/botpress
+braintrust,Braintrust,freemium,true,$0,web|api|cli,true,active,ai-agents-automation,2026-11-16,https://www.braintrust.dev/,https://aitrendtool.com/tools/braintrust
+bria-ai,Bria AI,usage-based,true,$0,web|api,true,active,ai-image-generation,2026-11-16,https://bria.ai/,https://aitrendtool.com/tools/bria-ai
 browser-use,Browser Use,open-source,true,$0,api|web,true,active,ai-agents-automation,2026-07-01,https://browser-use.com/,https://aitrendtool.com/tools/browser-use
+browserbase,Browserbase,freemium,true,$20/mo,api|web|cli,true,active,ai-agents-automation,2026-11-11,https://www.browserbase.com/,https://aitrendtool.com/tools/browserbase
+camb-ai,Camb AI,freemium,true,$0,web|api,true,active,ai-audio-music,2026-07-17,https://www.camb.ai/,https://aitrendtool.com/tools/camb-ai
 canva,Canva,freemium,true,$15/mo,web|mobile|desktop,true,active,ai-design,2026-06-11,https://www.canva.com/,https://aitrendtool.com/tools/canva
-capcut,CapCut,freemium,true,$9.99/mo,web|desktop|mobile,false,active,ai-video,2026-06-21,https://www.capcut.com/,https://aitrendtool.com/tools/capcut
-captions,Captions,freemium,true,$9.99/mo,web|desktop|mobile|api,true,active,ai-video,2026-06-20,https://www.captions.ai/,https://aitrendtool.com/tools/captions
-cartesia,Cartesia,usage-based,true,$0,api|web,true,active,ai-audio-music,2026-07-05,https://cartesia.ai/,https://aitrendtool.com/tools/cartesia
+capcut,CapCut,freemium,true,$19.99/mo,web|desktop|mobile,false,active,ai-video,2026-11-16,https://www.capcut.com/,https://aitrendtool.com/tools/capcut
+captions,Captions,freemium,true,$9.99/mo (iOS app),web|desktop|mobile|api,true,active,ai-video,2026-11-16,https://www.captions.ai/,https://aitrendtool.com/tools/captions
+cartesia,Cartesia,usage-based,true,$0,api|web,true,active,ai-audio-music,2026-10-18,https://cartesia.ai/,https://aitrendtool.com/tools/cartesia
 character-ai,Character.AI,freemium,true,$0,web|mobile,false,active,ai-chatbots,2026-06-20,https://character.ai/,https://aitrendtool.com/tools/character-ai
 chatbase,Chatbase,freemium,true,$32/mo,web|api,true,active,ai-chatbots,2026-07-01,https://www.chatbase.co/,https://aitrendtool.com/tools/chatbase
 chatgpt,ChatGPT,freemium,true,$8/mo,web|mobile|api|desktop,true,active,ai-chatbots,2026-06-11,https://chatgpt.com/,https://aitrendtool.com/tools/chatgpt
+chroma,Chroma,open-source,true,Free,api|cli|web,true,active,ai-search-research,2026-07-23,https://www.trychroma.com/,https://aitrendtool.com/tools/chroma
+civitai,Civitai,freemium,true,$10/mo,web|api,true,active,ai-image-generation,2026-11-01,https://civitai.com/,https://aitrendtool.com/tools/civitai
 claude,Claude,freemium,true,$20/mo,web|mobile|api,true,active,ai-chatbots,2026-07-03,https://claude.ai/,https://aitrendtool.com/tools/claude
 clay,Clay,freemium,true,$167/mo,web|api|extension,true,active,ai-agents-automation,2026-07-06,https://www.clay.com,https://aitrendtool.com/tools/clay
-cline,Cline,open-source,true,$0,extension|cli,true,active,ai-coding,2026-06-20,https://cline.bot/,https://aitrendtool.com/tools/cline
-coderabbit,CodeRabbit,freemium,true,$0,web|extension|cli|api,true,active,ai-coding,2026-06-23,https://www.coderabbit.ai/,https://aitrendtool.com/tools/coderabbit
+clearscope,Clearscope,paid,false,$129/mo,web|extension,false,active,ai-writing-marketing,2026-07-16,https://www.clearscope.io/,https://aitrendtool.com/tools/clearscope
+clickup,ClickUp,freemium,true,$7/user/mo,web|desktop|mobile|api|extension,true,active,ai-productivity,2026-07-16,https://clickup.com/,https://aitrendtool.com/tools/clickup
+cline,Cline,open-source,true,$0,extension|cli,true,active,ai-coding,2026-10-23,https://cline.bot/,https://aitrendtool.com/tools/cline
+coda,Coda,freemium,true,$0,web|desktop|mobile|api,true,active,ai-productivity,2026-11-16,https://coda.io/,https://aitrendtool.com/tools/coda
+coderabbit,CodeRabbit,freemium,true,$0,web|extension|cli|api,true,active,ai-coding,2026-10-18,https://www.coderabbit.ai/,https://aitrendtool.com/tools/coderabbit
 cohere,Cohere,freemium,true,$0.30/1M tokens,api|web,true,active,ai-agents-automation,2026-07-03,https://cohere.com/,https://aitrendtool.com/tools/cohere
-colossyan,Colossyan,freemium,true,$59/mo,web|api,true,active,ai-video,2026-07-08,https://www.colossyan.com,https://aitrendtool.com/tools/colossyan
+colossyan,Colossyan,freemium,true,$59/mo,web|api,true,active,ai-video,2026-11-15,https://www.colossyan.com,https://aitrendtool.com/tools/colossyan
+comfyui,ComfyUI,open-source,true,$20/mo,desktop|web|api,true,active,ai-image-generation,2026-10-21,https://www.comfy.org/,https://aitrendtool.com/tools/comfyui
+composio,Composio,usage-based,true,$0,web|api|cli,true,active,ai-agents-automation,2026-11-15,https://composio.dev/,https://aitrendtool.com/tools/composio
 consensus,Consensus,freemium,true,$10/mo,web,false,active,ai-search-research,2026-06-11,https://consensus.app/,https://aitrendtool.com/tools/consensus
 copy-ai,Copy.ai,paid,false,$24/mo,web|api,true,active,ai-writing-marketing,2026-07-03,https://www.copy.ai/,https://aitrendtool.com/tools/copy-ai
+creatify,Creatify,freemium,true,$15/mo,web|api,true,active,ai-video,2026-11-16,https://creatify.ai/,https://aitrendtool.com/tools/creatify
 crewai,CrewAI,freemium,true,$0,web|api|cli,true,active,ai-agents-automation,2026-07-03,https://crewai.com/,https://aitrendtool.com/tools/crewai
+crush,Crush,freemium,true,$10/mo,cli|desktop,false,active,ai-coding,2026-11-16,https://github.com/charmbracelet/crush,https://aitrendtool.com/tools/crush
 cursor,Cursor,freemium,true,$20/mo,desktop|cli,false,active,ai-coding,2026-07-03,https://cursor.com/,https://aitrendtool.com/tools/cursor
 d-id,D-ID,freemium,true,$5.99/mo,web|mobile|api,true,active,ai-video,2026-06-23,https://www.d-id.com/,https://aitrendtool.com/tools/d-id
+daytona,Daytona,usage-based,true,$0.0504/vCPU-hr,api|cli|web,true,active,ai-agents-automation,2026-10-19,https://www.daytona.io/,https://aitrendtool.com/tools/daytona
+decagon,Decagon,contact,false,Custom,web|api,true,active,ai-agents-automation,2026-07-15,https://decagon.ai/,https://aitrendtool.com/tools/decagon
 deepgram,Deepgram,usage-based,true,$0,api|web,true,active,ai-audio-music,2026-07-05,https://deepgram.com/,https://aitrendtool.com/tools/deepgram
 deepl,DeepL,freemium,true,$8.74/mo,web|desktop|mobile|api|extension,true,active,ai-writing-marketing,2026-07-06,https://www.deepl.com,https://aitrendtool.com/tools/deepl
 deepseek,DeepSeek,freemium,true,$0,web|mobile|api,true,active,ai-chatbots,2026-06-11,https://chat.deepseek.com/,https://aitrendtool.com/tools/deepseek
-descript,Descript,freemium,true,$16/mo,web,false,active,ai-video,2026-07-03,https://www.descript.com/,https://aitrendtool.com/tools/descript
-devin,Devin,usage-based,false,$20/mo + $2.25/ACU,web|cli|api|extension,true,active,ai-coding,2026-06-20,https://devin.ai/,https://aitrendtool.com/tools/devin
-dia,Dia,freemium,true,$20/mo,desktop,false,active,ai-productivity,2026-07-08,https://www.diabrowser.com,https://aitrendtool.com/tools/dia
-dify,Dify,freemium,true,$0,web|api|cli,true,active,ai-agents-automation,2026-06-24,https://dify.ai/,https://aitrendtool.com/tools/dify
+deevid-ai,DeeVid AI,freemium,true,$10/mo,web|mobile,false,active,ai-video,2026-07-14,https://deevid.ai/,https://aitrendtool.com/tools/deevid-ai
+descript,Descript,freemium,true,$16/mo,web,false,active,ai-video,2026-11-15,https://www.descript.com/,https://aitrendtool.com/tools/descript
+devin,Devin,freemium,true,$20/mo,web|cli|api|extension,true,active,ai-coding,2026-11-16,https://devin.ai/,https://aitrendtool.com/tools/devin
+dia,Dia,freemium,true,$10/mo,desktop,false,active,ai-productivity,2026-11-16,https://www.diabrowser.com,https://aitrendtool.com/tools/dia
+dify,Dify,freemium,true,$0,web|api|cli,true,active,ai-agents-automation,2026-11-15,https://dify.ai/,https://aitrendtool.com/tools/dify
 durable,Durable,freemium,true,$25/mo,web,false,active,ai-design,2026-06-28,https://durable.co/,https://aitrendtool.com/tools/durable
+dust,Dust,freemium,true,$30/seat/mo,web|api|extension|cli,true,active,ai-agents-automation,2026-10-13,https://dust.tt/,https://aitrendtool.com/tools/dust
+e2b,E2B,freemium,true,$150/mo,api|cli|web,true,active,ai-agents-automation,2026-10-18,https://e2b.dev/,https://aitrendtool.com/tools/e2b
 elevenlabs,ElevenLabs,freemium,true,$6/mo,web|api|mobile,true,active,ai-audio-music,2026-07-03,https://elevenlabs.io/,https://aitrendtool.com/tools/elevenlabs
-elicit,Elicit,freemium,true,$49/mo,web|api,true,active,ai-search-research,2026-07-03,https://elicit.com/,https://aitrendtool.com/tools/elicit
-exa,Exa,usage-based,true,$0,web|api,true,active,ai-search-research,2026-06-22,https://exa.ai/,https://aitrendtool.com/tools/exa
-factory-ai,Factory AI,paid,false,$20/mo,desktop|cli|api,true,active,ai-coding,2026-06-18,https://factory.ai/,https://aitrendtool.com/tools/factory-ai
-fal,fal,usage-based,false,$0.02/megapixel,web|api|cli,true,active,ai-image-generation,2026-07-06,https://fal.ai/,https://aitrendtool.com/tools/fal
-fathom,Fathom,freemium,true,$0,web|extension|api,true,active,ai-productivity,2026-06-23,https://fathom.video/,https://aitrendtool.com/tools/fathom
+elicit,Elicit,freemium,true,$49/mo,web|api,true,active,ai-search-research,2026-11-16,https://elicit.com/,https://aitrendtool.com/tools/elicit
+exa,Exa,usage-based,true,$0,web|api,true,active,ai-search-research,2026-11-14,https://exa.ai/,https://aitrendtool.com/tools/exa
+factory-ai,Factory AI,freemium,true,$20/mo,desktop|cli|api,true,active,ai-coding,2026-11-14,https://factory.ai/,https://aitrendtool.com/tools/factory-ai
+fal,fal,usage-based,false,$0.003/megapixel,web|api|cli,true,active,ai-image-generation,2026-11-16,https://fal.ai/,https://aitrendtool.com/tools/fal
+fathom,Fathom,freemium,true,$0,web|extension|api,true,active,ai-productivity,2026-10-23,https://fathom.video/,https://aitrendtool.com/tools/fathom
 felo-ai,Felo AI,freemium,true,$14.99/mo,web|mobile,false,active,ai-search-research,2026-07-03,https://felo.ai/,https://aitrendtool.com/tools/felo-ai
-filmora,Filmora,freemium,true,$49.99/yr,desktop|mobile,false,active,ai-video,2026-07-06,https://filmora.wondershare.com,https://aitrendtool.com/tools/filmora
-fin,Fin,usage-based,false,$0.99/outcome,web|api,true,active,ai-agents-automation,2026-07-08,https://fin.ai,https://aitrendtool.com/tools/fin
+filmora,Filmora,freemium,true,$49.99/yr,desktop|mobile,false,active,ai-video,2026-10-27,https://filmora.wondershare.com,https://aitrendtool.com/tools/filmora
+fin,Fin,usage-based,false,$0.99/outcome,web|api,true,active,ai-agents-automation,2026-11-15,https://fin.ai,https://aitrendtool.com/tools/fin
+firecrawl,Firecrawl,freemium,true,$19/mo,api|web,true,active,ai-agents-automation,2026-07-30,https://www.firecrawl.dev/,https://aitrendtool.com/tools/firecrawl
 fireflies-ai,Fireflies.ai,freemium,true,$10/mo,web|mobile|desktop|extension|api,true,active,ai-productivity,2026-07-03,https://fireflies.ai/,https://aitrendtool.com/tools/fireflies-ai
-flowise,Flowise,open-source,true,$0,web|api|cli,true,active,ai-agents-automation,2026-06-24,https://flowiseai.com/,https://aitrendtool.com/tools/flowise
+fireworks-ai,Fireworks AI,usage-based,true,$0.05/1M tokens,web|api,true,active,ai-coding,2026-11-16,https://fireworks.ai/,https://aitrendtool.com/tools/fireworks-ai
+fish-audio,Fish Audio,freemium,true,$15/mo,web|api,true,active,ai-audio-music,2026-10-27,https://fish.audio/,https://aitrendtool.com/tools/fish-audio
+flair-ai,Flair AI,freemium,true,$10/mo,web|api,true,active,ai-image-generation,2026-11-01,https://flair.ai/,https://aitrendtool.com/tools/flair-ai
+fliki,Fliki,freemium,true,$28/mo,web|api,true,active,ai-video,2026-11-16,https://fliki.ai/,https://aitrendtool.com/tools/fliki
+flowise,Flowise,open-source,true,$0,web|api|cli,true,active,ai-agents-automation,2026-11-15,https://flowiseai.com/,https://aitrendtool.com/tools/flowise
 flux,FLUX,usage-based,true,$0.014/image,web|api,true,active,ai-image-generation,2026-06-11,https://bfl.ai/,https://aitrendtool.com/tools/flux
 fotor,Fotor,freemium,true,$8.99/mo,web|desktop|mobile,false,active,ai-image-generation,2026-07-05,https://www.fotor.com/,https://aitrendtool.com/tools/fotor
 framer,Framer,freemium,true,$10/mo,web,false,active,ai-design,2026-07-03,https://www.framer.com/,https://aitrendtool.com/tools/framer
-gamma,Gamma,freemium,true,$9/mo,web,true,active,ai-productivity,2026-06-11,https://gamma.app/,https://aitrendtool.com/tools/gamma
+frase,Frase,paid,false,$49/mo,web|api,true,active,ai-writing-marketing,2026-07-12,https://www.frase.io/,https://aitrendtool.com/tools/frase
+fyxer,Fyxer,paid,false,$30/user/mo,web|extension,false,active,ai-productivity,2026-07-15,https://www.fyxer.com/,https://aitrendtool.com/tools/fyxer
+gamma,Gamma,freemium,true,$9/mo,web,true,active,ai-productivity,2026-08-27,https://gamma.app/,https://aitrendtool.com/tools/gamma
 gemini,Gemini,freemium,true,$7.99/mo,web|mobile|api|extension,true,active,ai-chatbots,2026-06-11,https://gemini.google.com/,https://aitrendtool.com/tools/gemini
 genspark,Genspark,freemium,true,$0,web|desktop|mobile|extension,false,active,ai-agents-automation,2026-06-22,https://www.genspark.ai/,https://aitrendtool.com/tools/genspark
-getimg-ai,getimg.ai,usage-based,false,$8/mo,web|api,true,active,ai-image-generation,2026-06-30,https://getimg.ai/,https://aitrendtool.com/tools/getimg-ai
+getimg-ai,getimg.ai,usage-based,false,$15/mo,web|api,true,active,ai-image-generation,2026-11-15,https://getimg.ai/,https://aitrendtool.com/tools/getimg-ai
 github-copilot,GitHub Copilot,freemium,true,$10/mo,web|desktop|extension|cli,false,active,ai-coding,2026-07-03,https://github.com/features/copilot,https://aitrendtool.com/tools/github-copilot
+gladia,Gladia,usage-based,true,€0.16/hr,api|web,true,active,ai-audio-music,2026-11-16,https://www.gladia.io/,https://aitrendtool.com/tools/gladia
+glean,Glean,contact,false,Custom,web|mobile|api|extension,true,active,ai-search-research,2026-11-16,https://www.glean.com/,https://aitrendtool.com/tools/glean
+antigravity,Google Antigravity,freemium,true,$0,desktop|cli|api,true,active,ai-coding,2026-11-16,https://antigravity.google/,https://aitrendtool.com/tools/antigravity
 google-veo,Google Veo,freemium,true,$0,web|mobile|api,true,active,ai-video,2026-06-22,https://deepmind.google/models/veo/,https://aitrendtool.com/tools/google-veo
-gptzero,GPTZero,freemium,true,$8.33/mo,web|extension|api,true,active,ai-writing-marketing,2026-07-06,https://gptzero.me,https://aitrendtool.com/tools/gptzero
+gpt4all,GPT4All,open-source,true,$0,desktop,true,active,ai-chatbots,2026-07-23,https://www.nomic.ai/gpt4all,https://aitrendtool.com/tools/gpt4all
+gptzero,GPTZero,freemium,true,$12.99/mo,web|extension|api,true,active,ai-writing-marketing,2026-11-15,https://gptzero.me,https://aitrendtool.com/tools/gptzero
 grammarly,Grammarly,freemium,true,$0,web|desktop|mobile|extension,false,active,ai-writing-marketing,2026-06-22,https://www.grammarly.com/,https://aitrendtool.com/tools/grammarly
-granola,Granola,freemium,true,$14/mo,desktop|mobile,true,active,ai-productivity,2026-06-20,https://www.granola.ai/,https://aitrendtool.com/tools/granola
-greptile,Greptile,freemium,true,$30/mo,web|api,true,active,ai-coding,2026-07-08,https://www.greptile.com,https://aitrendtool.com/tools/greptile
+granola,Granola,freemium,true,$14/mo,desktop|mobile,true,active,ai-productivity,2026-11-16,https://www.granola.ai/,https://aitrendtool.com/tools/granola
+graphite,Graphite,freemium,true,$20/user/mo,web|cli|extension,false,active,ai-coding,2026-07-12,https://graphite.com/,https://aitrendtool.com/tools/graphite
+greptile,Greptile,freemium,true,$30/mo,web|api,true,active,ai-coding,2026-10-19,https://www.greptile.com,https://aitrendtool.com/tools/greptile
 grok,Grok,freemium,true,$10/mo,web|mobile|api,true,active,ai-chatbots,2026-06-11,https://grok.com/,https://aitrendtool.com/tools/grok
 groq,Groq,usage-based,true,$0,web|api,true,active,ai-coding,2026-06-24,https://groq.com/,https://aitrendtool.com/tools/groq
 gumloop,Gumloop,usage-based,true,$37/mo,web|api,true,active,ai-agents-automation,2026-06-26,https://www.gumloop.com/,https://aitrendtool.com/tools/gumloop
-hailuo-ai,Hailuo AI,freemium,true,$14.99/mo,web|mobile|api,true,active,ai-video,2026-06-24,https://hailuoai.video/,https://aitrendtool.com/tools/hailuo-ai
+guru,Guru,contact,false,Custom,web|extension|api,true,active,ai-search-research,2026-11-16,https://www.getguru.com/,https://aitrendtool.com/tools/guru
+hailuo-ai,Hailuo AI,freemium,true,$14.99/mo,web|mobile|api,true,active,ai-video,2026-11-16,https://hailuoai.video/,https://aitrendtool.com/tools/hailuo-ai
+harvey,Harvey,contact,false,Custom,web|mobile,false,active,ai-productivity,2026-07-23,https://www.harvey.ai/,https://aitrendtool.com/tools/harvey
 heygen,HeyGen,freemium,true,$29/mo,web|api,true,active,ai-video,2026-07-03,https://www.heygen.com/,https://aitrendtool.com/tools/heygen
-hume-ai,Hume AI,freemium,true,$3/mo,web|api,true,active,ai-audio-music,2026-07-06,https://www.hume.ai,https://aitrendtool.com/tools/hume-ai
-ideogram,Ideogram,freemium,true,$20/mo,web|api,true,active,ai-image-generation,2026-06-11,https://ideogram.ai/,https://aitrendtool.com/tools/ideogram
+hugging-face,Hugging Face,freemium,true,$9/mo,web|api|cli,true,active,ai-coding,2026-11-16,https://huggingface.co/,https://aitrendtool.com/tools/hugging-face
+hume-ai,Hume AI,usage-based,false,$0.47/1M input tokens,web|api,true,active,ai-audio-music,2026-11-16,https://www.hume.ai,https://aitrendtool.com/tools/hume-ai
+ideogram,Ideogram,freemium,true,$20/mo,web|api,true,active,ai-image-generation,2026-08-27,https://ideogram.ai/,https://aitrendtool.com/tools/ideogram
 invideo,InVideo AI,freemium,true,$0,web|mobile,true,active,ai-video,2026-06-22,https://invideo.io/ai/,https://aitrendtool.com/tools/invideo
+jan,Jan,open-source,true,$0,desktop|cli|api,true,active,ai-chatbots,2026-07-19,https://jan.ai/,https://aitrendtool.com/tools/jan
 jasper,Jasper,paid,false,$59/mo,web|mobile|api|extension,true,active,ai-writing-marketing,2026-07-03,https://www.jasper.ai/,https://aitrendtool.com/tools/jasper
-jules,Jules,freemium,true,$0,web,false,active,ai-coding,2026-06-30,https://jules.google/,https://aitrendtool.com/tools/jules
+jenni-ai,Jenni AI,freemium,true,$12/mo,web|extension,false,active,ai-writing-marketing,2026-07-14,https://jenni.ai/,https://aitrendtool.com/tools/jenni-ai
+jetbrains-ai,JetBrains AI,freemium,true,$10/mo,desktop|cli,false,active,ai-coding,2026-11-15,https://www.jetbrains.com/ai/,https://aitrendtool.com/tools/jetbrains-ai
+jules,Jules,freemium,true,$0,web,false,active,ai-coding,2026-10-23,https://jules.google/,https://aitrendtool.com/tools/jules
 julius-ai,Julius AI,freemium,true,$20/mo,web,true,active,ai-productivity,2026-07-05,https://julius.ai/,https://aitrendtool.com/tools/julius-ai
+kagi,Kagi,paid,false,$5/mo,web|mobile|extension|api,true,active,ai-search-research,2026-11-11,https://kagi.com/,https://aitrendtool.com/tools/kagi
 kimi,Kimi,freemium,true,$19/mo,web|desktop|mobile|api,true,active,ai-chatbots,2026-06-26,https://www.kimi.com/,https://aitrendtool.com/tools/kimi
+kiro,Kiro,freemium,true,$20/mo,desktop|cli|web,false,active,ai-coding,2026-11-11,https://kiro.dev/,https://aitrendtool.com/tools/kiro
+kittl,Kittl,freemium,true,$15/mo,web,false,active,ai-design,2026-10-19,https://www.kittl.com/,https://aitrendtool.com/tools/kittl
+klap,Klap,paid,false,$29/mo,web|api,true,active,ai-video,2026-11-09,https://klap.app/,https://aitrendtool.com/tools/klap
 kling-ai,Kling AI,freemium,true,$6.99/mo,web|api,true,active,ai-video,2026-06-11,https://klingai.com/global/,https://aitrendtool.com/tools/kling-ai
-krea,Krea AI,freemium,true,$9/mo,web,false,active,ai-image-generation,2026-06-18,https://krea.ai/,https://aitrendtool.com/tools/krea
-krisp,Krisp,freemium,true,$8/mo,desktop|web|mobile|extension|api,true,active,ai-audio-music,2026-06-28,https://krisp.ai/,https://aitrendtool.com/tools/krisp
+koala,Koala,paid,false,$9/mo,web|api,true,active,ai-writing-marketing,2026-07-19,https://koala.sh/,https://aitrendtool.com/tools/koala
+krea,Krea AI,freemium,true,$9/mo,web,false,active,ai-image-generation,2026-11-11,https://krea.ai/,https://aitrendtool.com/tools/krea
+krisp,Krisp,paid,false,$8/mo,desktop|web|mobile|extension|api,true,active,ai-audio-music,2026-11-16,https://krisp.ai/,https://aitrendtool.com/tools/krisp
 lalal-ai,LALAL.AI,freemium,true,$9/mo,web|desktop|mobile|api,true,active,ai-audio-music,2026-06-26,https://www.lalal.ai/,https://aitrendtool.com/tools/lalal-ai
+langchain,LangChain,freemium,true,$39/seat/mo,web|api|cli,true,active,ai-agents-automation,2026-11-16,https://www.langchain.com/,https://aitrendtool.com/tools/langchain
+langfuse,Langfuse,open-source,true,Free,web|api,true,active,ai-agents-automation,2026-11-16,https://langfuse.com/,https://aitrendtool.com/tools/langfuse
+lavender,Lavender,freemium,true,$29/mo,extension|web,false,active,ai-writing-marketing,2026-07-23,https://www.lavender.ai/,https://aitrendtool.com/tools/lavender
 leonardo-ai,Leonardo.Ai,freemium,true,$12/mo,web|mobile|api,true,active,ai-image-generation,2026-06-11,https://leonardo.ai/,https://aitrendtool.com/tools/leonardo-ai
+letta,Letta,freemium,true,$20/mo,web|desktop|cli|api,true,active,ai-agents-automation,2026-11-15,https://www.letta.com/,https://aitrendtool.com/tools/letta
 lex,Lex,freemium,true,$18/mo,web|mobile,false,active,ai-writing-marketing,2026-07-05,https://lex.page/,https://aitrendtool.com/tools/lex
+lexica,Lexica,freemium,true,$8/mo,web|api,true,active,ai-image-generation,2026-07-14,https://lexica.art/,https://aitrendtool.com/tools/lexica
 lindy,Lindy,paid,false,$49.99/mo,web,false,active,ai-agents-automation,2026-06-21,https://www.lindy.ai/,https://aitrendtool.com/tools/lindy
-lm-studio,LM Studio,free,true,$0,desktop|cli|api,true,active,ai-productivity,2026-06-24,https://lmstudio.ai/,https://aitrendtool.com/tools/lm-studio
-looka,Looka,paid,false,$20 one-time,web,false,active,ai-design,2026-06-11,https://looka.com/,https://aitrendtool.com/tools/looka
-lovable,Lovable,freemium,true,$25/mo,web|desktop,true,active,ai-coding,2026-06-11,https://lovable.dev/,https://aitrendtool.com/tools/lovable
+liner,Liner,freemium,true,$17.99/mo,web|mobile|desktop|extension|api,true,active,ai-search-research,2026-11-16,https://liner.com/,https://aitrendtool.com/tools/liner
+litellm,LiteLLM,open-source,true,$0,api|cli|web,true,active,ai-agents-automation,2026-11-15,https://www.litellm.ai/,https://aitrendtool.com/tools/litellm
+llamaindex,LlamaIndex,freemium,true,$0,web|api|cli,true,active,ai-agents-automation,2026-11-15,https://www.llamaindex.ai/,https://aitrendtool.com/tools/llamaindex
+lm-studio,LM Studio,freemium,true,$0,desktop|cli|api,true,active,ai-productivity,2026-11-16,https://lmstudio.ai/,https://aitrendtool.com/tools/lm-studio
+looka,Looka,paid,false,$35 one-time,web,false,active,ai-design,2026-11-15,https://looka.com/,https://aitrendtool.com/tools/looka
+lovable,Lovable,freemium,true,$25/mo,web|desktop,true,active,ai-coding,2026-08-27,https://lovable.dev/,https://aitrendtool.com/tools/lovable
+lovart,Lovart,freemium,true,$19.90/mo,web,false,active,ai-design,2026-07-15,https://www.lovart.ai/,https://aitrendtool.com/tools/lovart
+lovo,LOVO AI,freemium,true,$24/mo,web|api,true,active,ai-audio-music,2026-07-15,https://lovo.ai/,https://aitrendtool.com/tools/lovo
+ltx-studio,LTX Studio,freemium,true,$15/mo,web,false,active,ai-video,2026-10-18,https://ltx.studio/,https://aitrendtool.com/tools/ltx-studio
 luma-dream-machine,Luma Dream Machine,freemium,true,$9.99/mo,web|mobile|api,true,active,ai-video,2026-06-11,https://lumalabs.ai/,https://aitrendtool.com/tools/luma-dream-machine
-magnific,Magnific AI,paid,false,~$5.75/mo,web|api,true,active,ai-image-generation,2026-06-20,https://www.magnific.com/,https://aitrendtool.com/tools/magnific
-make,Make,freemium,true,$9/mo,web|api,true,active,ai-agents-automation,2026-07-03,https://www.make.com/en,https://aitrendtool.com/tools/make
-manus,Manus,freemium,true,$20/mo,web|desktop|mobile|api,true,active,ai-agents-automation,2026-06-20,https://manus.im/,https://aitrendtool.com/tools/manus
-meshy,Meshy,freemium,true,$0,web|api,true,active,ai-design,2026-06-23,https://www.meshy.ai/,https://aitrendtool.com/tools/meshy
+luminar-neo,Luminar,paid,false,$89 one-time,desktop|mobile,false,active,ai-image-generation,2026-11-04,https://skylum.com/luminar,https://aitrendtool.com/tools/luminar-neo
+magic-patterns,Magic Patterns,freemium,true,$20/mo,web|api,true,active,ai-design,2026-07-19,https://www.magicpatterns.com/,https://aitrendtool.com/tools/magic-patterns
+magnific,Magnific AI,paid,false,$20/mo,web|api,true,active,ai-image-generation,2026-11-16,https://www.magnific.com/,https://aitrendtool.com/tools/magnific
+make,Make,freemium,true,$10.59/mo,web|api,true,active,ai-agents-automation,2026-11-16,https://www.make.com/en,https://aitrendtool.com/tools/make
+manus,Manus,freemium,true,$20/mo,web|desktop|mobile|api,true,active,ai-agents-automation,2026-11-09,https://manus.im/,https://aitrendtool.com/tools/manus
+marketmuse,MarketMuse,freemium,true,$0,web,false,active,ai-writing-marketing,2026-07-17,https://www.marketmuse.com/,https://aitrendtool.com/tools/marketmuse
+mastra,Mastra,freemium,true,$25/mo,web|api|cli,true,active,ai-agents-automation,2026-11-16,https://mastra.ai/,https://aitrendtool.com/tools/mastra
+mem0,Mem0,freemium,true,$0,web|api,true,active,ai-agents-automation,2026-11-16,https://mem0.ai/,https://aitrendtool.com/tools/mem0
+meshy,Meshy,freemium,true,$0,web|api,true,active,ai-design,2026-11-01,https://www.meshy.ai/,https://aitrendtool.com/tools/meshy
 meta-ai,Meta AI,freemium,true,$0,web|mobile,false,active,ai-chatbots,2026-07-06,https://www.meta.ai,https://aitrendtool.com/tools/meta-ai
 microsoft-copilot,Microsoft Copilot,freemium,true,$0,web|desktop|mobile|extension,true,active,ai-chatbots,2026-06-22,https://copilot.microsoft.com/,https://aitrendtool.com/tools/microsoft-copilot
-microsoft-designer,Microsoft Designer,freemium,true,$0,web|mobile,false,active,ai-design,2026-06-24,https://designer.microsoft.com/,https://aitrendtool.com/tools/microsoft-designer
+microsoft-designer,Microsoft Designer,freemium,true,$0,web|mobile,false,active,ai-design,2026-11-15,https://designer.microsoft.com/,https://aitrendtool.com/tools/microsoft-designer
 midjourney,Midjourney,paid,false,$10/mo,web,false,active,ai-image-generation,2026-06-11,https://www.midjourney.com/,https://aitrendtool.com/tools/midjourney
-mistral,Mistral Le Chat,freemium,true,$14.99/mo,web|mobile|api|cli,true,active,ai-chatbots,2026-06-18,https://chat.mistral.ai/,https://aitrendtool.com/tools/mistral
+mistral,Mistral Vibe,freemium,true,$14.99/mo,web|mobile|api|cli,true,active,ai-chatbots,2026-11-16,https://chat.mistral.ai/,https://aitrendtool.com/tools/mistral
+modal,Modal,usage-based,true,Free + usage,web|api|cli,true,active,ai-coding,2026-11-16,https://modal.com/,https://aitrendtool.com/tools/modal
+monica,Monica,freemium,true,$9.90/mo,extension|web|desktop|mobile|api,true,active,ai-productivity,2026-11-07,https://monica.im/,https://aitrendtool.com/tools/monica
 motion,Motion,paid,false,$19/seat/mo,web|desktop|mobile,false,active,ai-productivity,2026-06-21,https://www.usemotion.com/,https://aitrendtool.com/tools/motion
+msty,Msty,freemium,true,$149/yr,desktop|web,false,active,ai-chatbots,2026-11-09,https://msty.ai/,https://aitrendtool.com/tools/msty
+mubert,Mubert,freemium,true,$14/mo,web|mobile|api,true,active,ai-audio-music,2026-07-10,https://mubert.com/,https://aitrendtool.com/tools/mubert
 murf-ai,Murf AI,freemium,true,$19/mo,web|api,true,active,ai-audio-music,2026-06-11,https://murf.ai/,https://aitrendtool.com/tools/murf-ai
 n8n,n8n,freemium,true,€20/mo,web|api|cli,true,active,ai-agents-automation,2026-07-03,https://n8n.io/,https://aitrendtool.com/tools/n8n
-napkin-ai,Napkin AI,freemium,true,$0,web|desktop|mobile,false,active,ai-design,2026-06-23,https://www.napkin.ai/,https://aitrendtool.com/tools/napkin-ai
+napkin-ai,Napkin AI,freemium,true,$0,web|desktop|mobile,false,active,ai-design,2026-11-15,https://www.napkin.ai/,https://aitrendtool.com/tools/napkin-ai
 nightcafe,NightCafe,usage-based,true,$5.99/mo,web|mobile,false,active,ai-image-generation,2026-06-28,https://creator.nightcafe.studio/,https://aitrendtool.com/tools/nightcafe
 notebooklm,NotebookLM,freemium,true,$7.99/mo,web,false,active,ai-search-research,2026-06-11,https://notebooklm.google.com/,https://aitrendtool.com/tools/notebooklm
-notion,Notion,freemium,true,$10/member/mo,web|mobile|desktop,true,active,ai-productivity,2026-06-11,https://www.notion.com/,https://aitrendtool.com/tools/notion
-ollama,Ollama,freemium,true,$0,desktop|cli|api,true,active,ai-productivity,2026-06-23,https://ollama.com/,https://aitrendtool.com/tools/ollama
-openai-codex,OpenAI Codex,freemium,true,$8/mo,web|cli|extension|api,true,active,ai-coding,2026-07-06,https://openai.com/codex/,https://aitrendtool.com/tools/openai-codex
-openhands,OpenHands,open-source,true,$0,web|cli|api,true,active,ai-coding,2026-06-24,https://www.openhands.dev/,https://aitrendtool.com/tools/openhands
-openrouter,OpenRouter,usage-based,true,$0,web|api,true,active,ai-coding,2026-06-23,https://openrouter.ai/,https://aitrendtool.com/tools/openrouter
+notion,Notion,freemium,true,$10/member/mo,web|mobile|desktop,true,active,ai-productivity,2026-08-27,https://www.notion.com/,https://aitrendtool.com/tools/notion
+notta,Notta,freemium,true,$8.17/mo,web|desktop|mobile|extension,false,active,ai-productivity,2026-10-18,https://www.notta.ai/,https://aitrendtool.com/tools/notta
+ollama,Ollama,freemium,true,$0,desktop|cli|api,true,active,ai-productivity,2026-11-14,https://ollama.com/,https://aitrendtool.com/tools/ollama
+onyx,Onyx,open-source,true,$0,web|api,true,active,ai-search-research,2026-11-16,https://onyx.app/,https://aitrendtool.com/tools/onyx
+open-webui,Open WebUI,open-source,true,$0,web|api,true,active,ai-chatbots,2026-07-18,https://openwebui.com/,https://aitrendtool.com/tools/open-webui
+openai-codex,OpenAI Codex,freemium,true,$8/mo,web|cli|extension|api,true,active,ai-coding,2026-11-16,https://openai.com/codex/,https://aitrendtool.com/tools/openai-codex
+openart,OpenArt,freemium,true,$14/mo,web|mobile,false,active,ai-image-generation,2026-11-14,https://openart.ai/,https://aitrendtool.com/tools/openart
+opencode,OpenCode,open-source,true,$0,cli|desktop|extension|web|api,true,active,ai-coding,2026-11-14,https://opencode.ai/,https://aitrendtool.com/tools/opencode
+openhands,OpenHands,open-source,true,$0,web|cli|api,true,active,ai-coding,2026-11-16,https://www.openhands.dev/,https://aitrendtool.com/tools/openhands
+openrouter,OpenRouter,usage-based,true,$0,web|api,true,active,ai-coding,2026-11-16,https://openrouter.ai/,https://aitrendtool.com/tools/openrouter
 opus-clip,Opus Clip,freemium,true,$15/mo,web|api,true,active,ai-video,2026-06-20,https://www.opus.pro/,https://aitrendtool.com/tools/opus-clip
 originality-ai,Originality.ai,usage-based,false,$14.95/mo,web|api|extension,true,active,ai-writing-marketing,2026-07-08,https://originality.ai,https://aitrendtool.com/tools/originality-ai
-otter-ai,Otter.ai,freemium,true,$8.33/user/mo,web|mobile|desktop|extension,true,active,ai-productivity,2026-06-11,https://otter.ai/,https://aitrendtool.com/tools/otter-ai
+otter-ai,Otter.ai,freemium,true,$8.33/user/mo,web|mobile|desktop|extension,true,active,ai-productivity,2026-11-16,https://otter.ai/,https://aitrendtool.com/tools/otter-ai
+paperpal,Paperpal,freemium,true,$12/mo,web|extension,false,active,ai-writing-marketing,2026-11-16,https://paperpal.com/,https://aitrendtool.com/tools/paperpal
+parallel-ai,Parallel,usage-based,true,$0,api|web,true,active,ai-search-research,2026-10-21,https://parallel.ai/,https://aitrendtool.com/tools/parallel-ai
 perplexity,Perplexity,freemium,true,$20/mo,web|mobile|extension,true,active,ai-search-research,2026-06-11,https://www.perplexity.ai/,https://aitrendtool.com/tools/perplexity
-photoroom,Photoroom,freemium,true,$12.99/mo,web|mobile|api,true,active,ai-image-generation,2026-06-21,https://www.photoroom.com/,https://aitrendtool.com/tools/photoroom
+photoroom,Photoroom,freemium,true,$12.99/mo,web|mobile|api,true,active,ai-image-generation,2026-10-21,https://www.photoroom.com/,https://aitrendtool.com/tools/photoroom
 pictory,Pictory,paid,false,$25/mo,web|api,true,active,ai-video,2026-07-01,https://pictory.ai/,https://aitrendtool.com/tools/pictory
+pieces,Pieces,freemium,true,$0,desktop|extension|cli,false,active,ai-coding,2026-07-17,https://pieces.app/,https://aitrendtool.com/tools/pieces
 pika,Pika,freemium,true,$8/mo,web|mobile|api,true,active,ai-video,2026-06-11,https://pika.art/,https://aitrendtool.com/tools/pika
-playground-ai,Playground,freemium,true,$12/mo,web|mobile|api,true,active,ai-image-generation,2026-06-30,https://playground.com/,https://aitrendtool.com/tools/playground-ai
-poe,Poe,freemium,true,$4.99/mo,web|mobile|desktop|api,true,active,ai-chatbots,2026-06-20,https://poe.com/,https://aitrendtool.com/tools/poe
-prowritingaid,ProWritingAid,freemium,true,$30/mo,web|desktop|extension,false,active,ai-writing-marketing,2026-07-08,https://prowritingaid.com,https://aitrendtool.com/tools/prowritingaid
+pinecone,Pinecone,usage-based,true,$20/mo,web|api,true,active,ai-agents-automation,2026-07-12,https://www.pinecone.io/,https://aitrendtool.com/tools/pinecone
+pixlr,Pixlr,freemium,true,$2.49/mo,web|desktop|mobile|api,true,active,ai-image-generation,2026-07-12,https://pixlr.com/,https://aitrendtool.com/tools/pixlr
+pixverse,PixVerse,freemium,true,$10/mo,web|mobile|api,true,active,ai-video,2026-07-11,https://pixverse.ai,https://aitrendtool.com/tools/pixverse
+playground-ai,Playground,freemium,true,$12/mo,web|mobile|api,true,active,ai-image-generation,2026-11-16,https://playground.com/,https://aitrendtool.com/tools/playground-ai
+poe,Poe,freemium,true,$4.99/mo,web|mobile|desktop|api,true,active,ai-chatbots,2026-10-21,https://poe.com/,https://aitrendtool.com/tools/poe
+portkey,Portkey,freemium,true,$49/mo,web|api,true,active,ai-agents-automation,2026-11-14,https://portkey.ai/,https://aitrendtool.com/tools/portkey
+prowritingaid,ProWritingAid,freemium,true,$30/mo,web|desktop|extension,false,active,ai-writing-marketing,2026-11-16,https://prowritingaid.com,https://aitrendtool.com/tools/prowritingaid
+qdrant,Qdrant,open-source,true,Free,web|api|cli,true,active,ai-agents-automation,2026-07-20,https://qdrant.tech/,https://aitrendtool.com/tools/qdrant
+qoder,Qoder,freemium,true,$10/mo,desktop|cli|extension,false,active,ai-coding,2026-11-11,https://qoder.com/,https://aitrendtool.com/tools/qoder
 qodo,Qodo,paid,false,$30/mo,extension|web|cli,false,active,ai-coding,2026-07-01,https://www.qodo.ai/,https://aitrendtool.com/tools/qodo
 quillbot,QuillBot,freemium,true,$0,web|desktop|mobile|extension,false,active,ai-writing-marketing,2026-06-22,https://quillbot.com/,https://aitrendtool.com/tools/quillbot
 qwen,Qwen,open-source,true,$0,web|mobile|api|cli,true,active,ai-chatbots,2026-06-22,https://qwen.ai/,https://aitrendtool.com/tools/qwen
-raycast,Raycast,freemium,true,$8/mo,desktop|mobile,false,active,ai-productivity,2026-07-06,https://www.raycast.com,https://aitrendtool.com/tools/raycast
+rask-ai,Rask AI,paid,false,$39/mo,web|api,true,active,ai-video,2026-11-16,https://www.rask.ai/,https://aitrendtool.com/tools/rask-ai
+raycast,Raycast,freemium,true,$8/mo,desktop|mobile,false,active,ai-productivity,2026-10-21,https://www.raycast.com,https://aitrendtool.com/tools/raycast
+read-ai,Read AI,freemium,true,$0,web|desktop|mobile|extension|api,true,active,ai-productivity,2026-07-10,https://www.read.ai/,https://aitrendtool.com/tools/read-ai
 reclaim,Reclaim,freemium,true,$10/seat/mo,web|mobile|extension,true,active,ai-productivity,2026-06-30,https://reclaim.ai/,https://aitrendtool.com/tools/reclaim
-recraft,Recraft,freemium,true,$10/mo,web|api,true,active,ai-design,2026-07-03,https://www.recraft.ai/,https://aitrendtool.com/tools/recraft
+recraft,Recraft,freemium,true,$10/mo,web|api,true,active,ai-design,2026-11-16,https://www.recraft.ai/,https://aitrendtool.com/tools/recraft
 relevance-ai,Relevance AI,freemium,true,$19/mo,web|api,true,active,ai-agents-automation,2026-06-11,https://relevanceai.com/,https://aitrendtool.com/tools/relevance-ai
 relume,Relume,freemium,true,$26/mo,web,false,active,ai-design,2026-07-05,https://relume.io/,https://aitrendtool.com/tools/relume
 remini,Remini,freemium,true,$6.99/week,mobile|web,false,active,ai-image-generation,2026-07-08,https://remini.ai,https://aitrendtool.com/tools/remini
-replicate,Replicate,usage-based,false,$0.000025/sec,web|api|cli,true,active,ai-image-generation,2026-06-23,https://replicate.com/,https://aitrendtool.com/tools/replicate
+replicate,Replicate,usage-based,false,$0.000100/sec,web|api|cli,true,active,ai-image-generation,2026-11-16,https://replicate.com/,https://aitrendtool.com/tools/replicate
 replika,Replika,freemium,true,$19.99/mo,web|mobile,false,active,ai-chatbots,2026-07-08,https://replika.com,https://aitrendtool.com/tools/replika
 replit,Replit,freemium,true,$25/mo,web|mobile,false,active,ai-coding,2026-06-18,https://replit.com/,https://aitrendtool.com/tools/replit
-resemble-ai,Resemble AI,usage-based,false,$0.0005/sec,web|api|extension,true,active,ai-audio-music,2026-06-30,https://www.resemble.ai/,https://aitrendtool.com/tools/resemble-ai
+resemble-ai,Resemble AI,usage-based,true,$0,web|api|extension,true,active,ai-audio-music,2026-11-16,https://www.resemble.ai/,https://aitrendtool.com/tools/resemble-ai
+retell-ai,Retell AI,usage-based,false,$0.07/min,web|api,true,active,ai-agents-automation,2026-07-30,https://www.retellai.com/,https://aitrendtool.com/tools/retell-ai
 reve,Reve,freemium,true,$7.99/mo,web|api,true,active,ai-image-generation,2026-07-05,https://reve.com/,https://aitrendtool.com/tools/reve
+riverside-fm,Riverside,freemium,true,$29/mo,web|desktop|mobile|api,true,active,ai-video,2026-11-09,https://riverside.com/,https://aitrendtool.com/tools/riverside-fm
+runpod,RunPod,usage-based,false,$0.27/hr,web|api|cli,true,active,ai-coding,2026-07-11,https://www.runpod.io/,https://aitrendtool.com/tools/runpod
 runway,Runway,freemium,true,$12/mo,web|api,true,active,ai-video,2026-06-11,https://runwayml.com/,https://aitrendtool.com/tools/runway
 rytr,Rytr,freemium,true,$9/mo,web|extension|api,true,active,ai-writing-marketing,2026-06-28,https://rytr.me/,https://aitrendtool.com/tools/rytr
-scispace,SciSpace,freemium,true,$12/mo,web|extension,false,active,ai-search-research,2026-06-28,https://scispace.com/,https://aitrendtool.com/tools/scispace
+scalenut,Scalenut,paid,false,$59/mo,web,false,active,ai-writing-marketing,2026-07-14,https://www.scalenut.com/,https://aitrendtool.com/tools/scalenut
+scenario,Scenario,freemium,true,$15/mo,web|api,true,active,ai-image-generation,2026-10-19,https://www.scenario.com/,https://aitrendtool.com/tools/scenario
+scispace,SciSpace,freemium,true,$12/mo,web|extension,false,active,ai-search-research,2026-11-16,https://scispace.com/,https://aitrendtool.com/tools/scispace
+scite,Scite,paid,false,$20/mo,web|api|extension,true,active,ai-search-research,2026-07-18,https://scite.ai/,https://aitrendtool.com/tools/scite
 semrush,Semrush,paid,false,$117.33/mo,web|api,true,active,ai-writing-marketing,2026-06-11,https://www.semrush.com/,https://aitrendtool.com/tools/semrush
+sentrydock,SentryDock,paid,false,$80/mo,web,false,active,ai-search-research,2026-07-30,https://www.sentrydock.com/,https://aitrendtool.com/tools/sentrydock
+shortwave,Shortwave,freemium,true,$14/mo,web|desktop|mobile,false,active,ai-productivity,2026-07-15,https://www.shortwave.com/,https://aitrendtool.com/tools/shortwave
+sider,Sider,freemium,true,$10/mo,extension|web|mobile|desktop,false,active,ai-productivity,2026-07-14,https://sider.ai/,https://aitrendtool.com/tools/sider
+sierra,Sierra,contact,false,Custom,web|api,true,active,ai-agents-automation,2026-07-14,https://sierra.ai/,https://aitrendtool.com/tools/sierra
 skyvern,Skyvern,freemium,true,$29/mo,web|api,true,active,ai-agents-automation,2026-07-05,https://www.skyvern.com/,https://aitrendtool.com/tools/skyvern
-speechify,Speechify,freemium,true,$11.58/mo,web|mobile|desktop|extension,true,active,ai-audio-music,2026-06-11,https://speechify.com/,https://aitrendtool.com/tools/speechify
-spline,Spline,freemium,true,$12/mo,web|desktop|api,true,active,ai-design,2026-07-06,https://spline.design,https://aitrendtool.com/tools/spline
+speechify,Speechify,freemium,true,$11.58/mo,web|mobile|desktop|extension,true,active,ai-audio-music,2026-11-15,https://speechify.com/,https://aitrendtool.com/tools/speechify
+speechmatics,Speechmatics,usage-based,true,$0.121/hr,api|web,true,active,ai-audio-music,2026-10-23,https://www.speechmatics.com/,https://aitrendtool.com/tools/speechmatics
+spline,Spline,freemium,true,$15/mo,web|desktop|api,true,active,ai-design,2026-11-16,https://spline.design,https://aitrendtool.com/tools/spline
 stable-diffusion,Stable Diffusion,freemium,true,$20/mo,web|api|desktop,true,active,ai-image-generation,2026-06-11,https://stability.ai/,https://aitrendtool.com/tools/stable-diffusion
+steel,Steel,freemium,true,$250/mo,api|web|cli,true,active,ai-agents-automation,2026-11-16,https://steel.dev/,https://aitrendtool.com/tools/steel
+stitch,Stitch,free,true,$0,web,false,active,ai-design,2026-07-11,https://stitch.withgoogle.com/,https://aitrendtool.com/tools/stitch
+subframe,Subframe,freemium,true,$20/mo,web|desktop|cli,false,active,ai-design,2026-11-16,https://subframe.com/,https://aitrendtool.com/tools/subframe
+submagic,Submagic,paid,false,$19/mo,web|api,true,active,ai-video,2026-07-20,https://www.submagic.co/,https://aitrendtool.com/tools/submagic
 sudowrite,Sudowrite,paid,false,$10/mo,web,false,active,ai-writing-marketing,2026-06-20,https://www.sudowrite.com/,https://aitrendtool.com/tools/sudowrite
 suno,Suno,freemium,true,$8/mo,web|mobile,false,active,ai-audio-music,2026-06-11,https://suno.com/,https://aitrendtool.com/tools/suno
+sunsama,Sunsama,paid,false,$17/mo,web|desktop|mobile,false,active,ai-productivity,2026-07-17,https://www.sunsama.com/,https://aitrendtool.com/tools/sunsama
 superhuman,Superhuman,paid,false,$30/mo,web|desktop|mobile,false,active,ai-productivity,2026-07-01,https://superhuman.com/,https://aitrendtool.com/tools/superhuman
+superwhisper,superwhisper,freemium,true,$8.49/mo,desktop|mobile,false,active,ai-productivity,2026-11-16,https://superwhisper.com/,https://aitrendtool.com/tools/superwhisper
 surfer-seo,Surfer SEO,paid,false,$49/mo,web|extension|api,true,active,ai-writing-marketing,2026-06-11,https://surferseo.com/,https://aitrendtool.com/tools/surfer-seo
 synthesia,Synthesia,freemium,true,$18/mo,web|api,true,active,ai-video,2026-06-11,https://www.synthesia.io/,https://aitrendtool.com/tools/synthesia
-tabnine,Tabnine,paid,false,$39/user/mo,extension|cli,false,active,ai-coding,2026-06-21,https://www.tabnine.com/,https://aitrendtool.com/tools/tabnine
+tabby,Tabby,freemium,true,$19/user/mo,extension|api|cli,true,active,ai-coding,2026-07-23,https://www.tabbyml.com/,https://aitrendtool.com/tools/tabby
+tabnine,Tabnine,contact,false,Custom,extension|cli,false,active,ai-coding,2026-11-16,https://www.tabnine.com/,https://aitrendtool.com/tools/tabnine
+tana,Tana,freemium,true,$15/user/mo,desktop|web|mobile|api,true,active,ai-productivity,2026-11-16,https://tana.inc/,https://aitrendtool.com/tools/tana
+tana-outliner,Tana Outliner,freemium,true,$8/mo,desktop|web|mobile|api,true,active,ai-productivity,2026-11-15,https://outliner.tana.inc/,https://aitrendtool.com/tools/tana-outliner
+taplio,Taplio,paid,false,$39/mo,web|extension|api,true,active,ai-writing-marketing,2026-07-19,https://taplio.com/,https://aitrendtool.com/tools/taplio
 taskade,Taskade,freemium,true,$6/mo,web|desktop|mobile|api|extension,true,active,ai-productivity,2026-06-28,https://www.taskade.com/,https://aitrendtool.com/tools/taskade
-tavus,Tavus,freemium,true,$59/mo,web|api,true,active,ai-video,2026-06-28,https://www.tavus.io/,https://aitrendtool.com/tools/tavus
+tavily,Tavily,freemium,true,$30/mo,api|web,true,active,ai-search-research,2026-11-14,https://www.tavily.com/,https://aitrendtool.com/tools/tavily
+tavus,Tavus,freemium,true,$22/mo,web|api,true,active,ai-video,2026-11-14,https://www.tavus.io/,https://aitrendtool.com/tools/tavus
+tidio,Tidio,freemium,true,$0,web|mobile|api,true,active,ai-chatbots,2026-07-17,https://www.tidio.com/,https://aitrendtool.com/tools/tidio
 tldv,tl;dv,freemium,true,$18/user/mo,web|desktop|mobile,false,active,ai-productivity,2026-07-05,https://tldv.io/,https://aitrendtool.com/tools/tldv
-together-ai,Together AI,usage-based,true,$0,web|api|cli,true,active,ai-coding,2026-06-24,https://www.together.ai/,https://aitrendtool.com/tools/together-ai
+together-ai,Together AI,usage-based,true,$0,web|api|cli,true,active,ai-coding,2026-11-16,https://www.together.ai/,https://aitrendtool.com/tools/together-ai
 topaz-labs,Topaz Labs,paid,false,$149/yr,desktop|web|api,true,active,ai-image-generation,2026-06-24,https://www.topazlabs.com/,https://aitrendtool.com/tools/topaz-labs
-trae,Trae,freemium,true,$3/mo,desktop|web,false,active,ai-coding,2026-06-30,https://www.trae.ai/,https://aitrendtool.com/tools/trae
-tripo,Tripo,freemium,true,$19.9/mo,web|api|extension,true,active,ai-design,2026-06-30,https://www.tripo3d.ai/,https://aitrendtool.com/tools/tripo
+trae,Trae,freemium,true,$20/mo,desktop|web,false,active,ai-coding,2026-10-27,https://www.trae.ai/,https://aitrendtool.com/tools/trae
+treblo,Treblo,freemium,true,$9.99/mo,web|mobile|api,true,active,ai-audio-music,2026-11-16,https://treblo.com/,https://aitrendtool.com/tools/treblo
+trigger-dev,Trigger.dev,freemium,true,$10/mo,web|api|cli,true,active,ai-agents-automation,2026-11-11,https://trigger.dev/,https://aitrendtool.com/tools/trigger-dev
+tripo,Tripo,freemium,true,$20/mo,web|api|extension,true,active,ai-design,2026-11-14,https://www.tripo3d.ai/,https://aitrendtool.com/tools/tripo
 udio,Udio,freemium,true,$10/mo,web,false,active,ai-audio-music,2026-06-11,https://www.udio.com/,https://aitrendtool.com/tools/udio
 uizard,Uizard,freemium,true,$12/mo,web,false,active,ai-design,2026-06-11,https://uizard.io/,https://aitrendtool.com/tools/uizard
+uizze,UIZZE,freemium,true,$9/mo,web|api,true,active,ai-design,2026-07-30,https://uizze.com/,https://aitrendtool.com/tools/uizze
+undermind,Undermind,freemium,true,$20/mo,web|api,true,active,ai-search-research,2026-11-15,https://www.undermind.ai/,https://aitrendtool.com/tools/undermind
+unstructured,Unstructured,usage-based,true,$0.03/page,api|web|cli,true,active,ai-agents-automation,2026-07-30,https://unstructured.io/,https://aitrendtool.com/tools/unstructured
 v0,v0 by Vercel,freemium,true,$20/mo,web|api,true,active,ai-coding,2026-06-18,https://v0.app/,https://aitrendtool.com/tools/v0
 vapi,Vapi,usage-based,false,$0.05/min,web|api,true,active,ai-agents-automation,2026-06-24,https://vapi.ai/,https://aitrendtool.com/tools/vapi
+vecbase,Vecbase,paid,false,$20/mo,web|desktop,false,active,ai-agents-automation,2026-07-30,https://vecbase.com/,https://aitrendtool.com/tools/vecbase
 veed,VEED,freemium,true,$10/mo,web|api,true,active,ai-video,2026-06-23,https://www.veed.io/,https://aitrendtool.com/tools/veed
 vidu,Vidu,freemium,true,$10/mo,web|api,true,active,ai-video,2026-06-26,https://www.vidu.com/,https://aitrendtool.com/tools/vidu
+viggle,Viggle,freemium,true,$0,web|mobile|api,true,active,ai-video,2026-11-14,https://viggle.ai/,https://aitrendtool.com/tools/viggle
+visily,Visily,freemium,true,$0,web,false,active,ai-design,2026-07-17,https://www.visily.ai/,https://aitrendtool.com/tools/visily
+vizard,Vizard,freemium,true,$29/mo,web|api,true,active,ai-video,2026-10-19,https://vizard.ai/,https://aitrendtool.com/tools/vizard
+vizcom,Vizcom,freemium,true,$49/user/mo,web|desktop,false,active,ai-design,2026-11-07,https://vizcom.com/,https://aitrendtool.com/tools/vizcom
 voicemod,Voicemod,freemium,true,$0,desktop|mobile,false,active,ai-audio-music,2026-07-08,https://www.voicemod.net,https://aitrendtool.com/tools/voicemod
-warp,Warp,freemium,true,$0,desktop|cli,false,active,ai-coding,2026-06-22,https://www.warp.dev/,https://aitrendtool.com/tools/warp
+wan,Wan,freemium,true,$5/mo,web|api|cli,true,active,ai-video,2026-11-15,https://wan.video/,https://aitrendtool.com/tools/wan
+warp,Warp,freemium,true,$0,desktop|cli,false,active,ai-coding,2026-11-14,https://www.warp.dev/,https://aitrendtool.com/tools/warp
+weaviate,Weaviate,open-source,true,$0,web|api|cli,true,active,ai-search-research,2026-07-23,https://weaviate.io/,https://aitrendtool.com/tools/weaviate
+wellsaid,WellSaid,freemium,true,$0,web|api,true,active,ai-audio-music,2026-07-14,https://www.wellsaid.io/,https://aitrendtool.com/tools/wellsaid
 windsurf,Windsurf,freemium,true,$15/mo,desktop|extension,false,active,ai-coding,2026-06-11,https://windsurf.com/,https://aitrendtool.com/tools/windsurf
 wispr-flow,Wispr Flow,freemium,true,$15/mo,desktop|mobile,false,active,ai-productivity,2026-07-05,https://wisprflow.ai/,https://aitrendtool.com/tools/wispr-flow
 wordtune,Wordtune,freemium,true,$6.99/mo,web|extension|mobile,false,active,ai-writing-marketing,2026-06-28,https://www.wordtune.com/,https://aitrendtool.com/tools/wordtune
+writer,Writer,paid,false,$29/user/mo,web|api,true,active,ai-writing-marketing,2026-07-12,https://writer.com/,https://aitrendtool.com/tools/writer
 writesonic,Writesonic,paid,false,$79/mo,web|api,true,active,ai-writing-marketing,2026-06-11,https://writesonic.com/,https://aitrendtool.com/tools/writesonic
 you-com,You.com,usage-based,true,"$5 per 1,000 calls",api,true,active,ai-search-research,2026-06-11,https://you.com/,https://aitrendtool.com/tools/you-com
 z-ai,Z.ai,freemium,true,$18/mo,web|api|cli,true,active,ai-coding,2026-06-18,https://z.ai/,https://aitrendtool.com/tools/z-ai
 zapier,Zapier,freemium,true,$19.99/mo,web|api,true,active,ai-agents-automation,2026-06-11,https://zapier.com/,https://aitrendtool.com/tools/zapier
 zed,Zed,freemium,true,$10/mo,desktop|cli|extension,false,active,ai-coding,2026-06-26,https://zed.dev/,https://aitrendtool.com/tools/zed
+zencoder,Zencoder,paid,false,$45/mo,desktop|extension|cli,false,active,ai-coding,2026-07-30,https://zencoder.ai/,https://aitrendtool.com/tools/zencoder
+zep,Zep,freemium,true,$125/mo,web|api,true,active,ai-agents-automation,2026-11-07,https://www.getzep.com/,https://aitrendtool.com/tools/zep

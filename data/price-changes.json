@@ -1,8 +1,1010 @@
 {
-  "generatedAt": "2026-07-08T22:47:19.705Z",
-  "asOf": "2026-07-08",
-  "baseline": true,
-  "since": null,
-  "count": 0,
-  "changes": []
+  "generatedAt": "2026-11-16T19:04:31.863Z",
+  "asOf": "2026-11-16",
+  "baseline": false,
+  "since": "2026-07-08",
+  "count": 162,
+  "changes": [
+    {
+      "slug": "abacus-ai",
+      "name": "Abacus.AI",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "activepieces",
+      "name": "Activepieces",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "ada",
+      "name": "Ada",
+      "type": "added",
+      "to": "Custom"
+    },
+    {
+      "slug": "adobe-podcast",
+      "name": "Adobe Podcast",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "amazon-q-developer",
+      "name": "Amazon Q Developer",
+      "type": "added",
+      "to": "$19/mo"
+    },
+    {
+      "slug": "anyword",
+      "name": "Anyword",
+      "type": "added",
+      "to": "$49/mo"
+    },
+    {
+      "slug": "apify",
+      "name": "Apify",
+      "type": "added",
+      "to": "$29/mo"
+    },
+    {
+      "slug": "arcade",
+      "name": "Arcade",
+      "type": "added",
+      "to": "$25/mo"
+    },
+    {
+      "slug": "argil",
+      "name": "Argil",
+      "type": "added",
+      "to": "$39/mo"
+    },
+    {
+      "slug": "async",
+      "name": "Async",
+      "type": "added",
+      "to": "$14.99/mo"
+    },
+    {
+      "slug": "auto-respond",
+      "name": "Auto-Respond",
+      "type": "added",
+      "to": "$19/mo"
+    },
+    {
+      "slug": "base44",
+      "name": "Base44",
+      "type": "added",
+      "to": "$16/mo"
+    },
+    {
+      "slug": "baseten",
+      "name": "Baseten",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "beatoven-ai",
+      "name": "Beatoven.ai",
+      "type": "added",
+      "to": "$6/mo"
+    },
+    {
+      "slug": "blackbox-ai",
+      "name": "Blackbox AI",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "boomy",
+      "name": "Boomy",
+      "type": "added",
+      "to": "$9.99/mo"
+    },
+    {
+      "slug": "botpress",
+      "name": "Botpress",
+      "type": "added",
+      "to": "$150/mo"
+    },
+    {
+      "slug": "braintrust",
+      "name": "Braintrust",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "bria-ai",
+      "name": "Bria AI",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "browserbase",
+      "name": "Browserbase",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "camb-ai",
+      "name": "Camb AI",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "capcut",
+      "name": "CapCut",
+      "type": "price",
+      "from": "$9.99/mo",
+      "to": "$19.99/mo"
+    },
+    {
+      "slug": "captions",
+      "name": "Captions",
+      "type": "price",
+      "from": "$9.99/mo",
+      "to": "$9.99/mo (iOS app)"
+    },
+    {
+      "slug": "chroma",
+      "name": "Chroma",
+      "type": "added",
+      "to": "Free"
+    },
+    {
+      "slug": "civitai",
+      "name": "Civitai",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "clearscope",
+      "name": "Clearscope",
+      "type": "added",
+      "to": "$129/mo"
+    },
+    {
+      "slug": "clickup",
+      "name": "ClickUp",
+      "type": "added",
+      "to": "$7/user/mo"
+    },
+    {
+      "slug": "coda",
+      "name": "Coda",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "comfyui",
+      "name": "ComfyUI",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "composio",
+      "name": "Composio",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "creatify",
+      "name": "Creatify",
+      "type": "added",
+      "to": "$15/mo"
+    },
+    {
+      "slug": "crush",
+      "name": "Crush",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "daytona",
+      "name": "Daytona",
+      "type": "added",
+      "to": "$0.0504/vCPU-hr"
+    },
+    {
+      "slug": "decagon",
+      "name": "Decagon",
+      "type": "added",
+      "to": "Custom"
+    },
+    {
+      "slug": "deevid-ai",
+      "name": "DeeVid AI",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "devin",
+      "name": "Devin",
+      "type": "price",
+      "from": "$20/mo + $2.25/ACU",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "devin",
+      "name": "Devin",
+      "type": "model",
+      "from": "usage-based",
+      "to": "freemium"
+    },
+    {
+      "slug": "devin",
+      "name": "Devin",
+      "type": "free-tier",
+      "from": false,
+      "to": true
+    },
+    {
+      "slug": "dia",
+      "name": "Dia",
+      "type": "price",
+      "from": "$20/mo",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "dust",
+      "name": "Dust",
+      "type": "added",
+      "to": "$30/seat/mo"
+    },
+    {
+      "slug": "e2b",
+      "name": "E2B",
+      "type": "added",
+      "to": "$150/mo"
+    },
+    {
+      "slug": "factory-ai",
+      "name": "Factory AI",
+      "type": "model",
+      "from": "paid",
+      "to": "freemium"
+    },
+    {
+      "slug": "factory-ai",
+      "name": "Factory AI",
+      "type": "free-tier",
+      "from": false,
+      "to": true
+    },
+    {
+      "slug": "fal",
+      "name": "fal",
+      "type": "price",
+      "from": "$0.02/megapixel",
+      "to": "$0.003/megapixel"
+    },
+    {
+      "slug": "firecrawl",
+      "name": "Firecrawl",
+      "type": "added",
+      "to": "$19/mo"
+    },
+    {
+      "slug": "fireworks-ai",
+      "name": "Fireworks AI",
+      "type": "added",
+      "to": "$0.05/1M tokens"
+    },
+    {
+      "slug": "fish-audio",
+      "name": "Fish Audio",
+      "type": "added",
+      "to": "$15/mo"
+    },
+    {
+      "slug": "flair-ai",
+      "name": "Flair AI",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "fliki",
+      "name": "Fliki",
+      "type": "added",
+      "to": "$28/mo"
+    },
+    {
+      "slug": "frase",
+      "name": "Frase",
+      "type": "added",
+      "to": "$49/mo"
+    },
+    {
+      "slug": "fyxer",
+      "name": "Fyxer",
+      "type": "added",
+      "to": "$30/user/mo"
+    },
+    {
+      "slug": "getimg-ai",
+      "name": "getimg.ai",
+      "type": "price",
+      "from": "$8/mo",
+      "to": "$15/mo"
+    },
+    {
+      "slug": "gladia",
+      "name": "Gladia",
+      "type": "added",
+      "to": "€0.16/hr"
+    },
+    {
+      "slug": "glean",
+      "name": "Glean",
+      "type": "added",
+      "to": "Custom"
+    },
+    {
+      "slug": "antigravity",
+      "name": "Google Antigravity",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "gpt4all",
+      "name": "GPT4All",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "gptzero",
+      "name": "GPTZero",
+      "type": "price",
+      "from": "$8.33/mo",
+      "to": "$12.99/mo"
+    },
+    {
+      "slug": "graphite",
+      "name": "Graphite",
+      "type": "added",
+      "to": "$20/user/mo"
+    },
+    {
+      "slug": "guru",
+      "name": "Guru",
+      "type": "added",
+      "to": "Custom"
+    },
+    {
+      "slug": "harvey",
+      "name": "Harvey",
+      "type": "added",
+      "to": "Custom"
+    },
+    {
+      "slug": "hugging-face",
+      "name": "Hugging Face",
+      "type": "added",
+      "to": "$9/mo"
+    },
+    {
+      "slug": "hume-ai",
+      "name": "Hume AI",
+      "type": "price",
+      "from": "$3/mo",
+      "to": "$0.47/1M input tokens"
+    },
+    {
+      "slug": "hume-ai",
+      "name": "Hume AI",
+      "type": "model",
+      "from": "freemium",
+      "to": "usage-based"
+    },
+    {
+      "slug": "hume-ai",
+      "name": "Hume AI",
+      "type": "free-tier",
+      "from": true,
+      "to": false
+    },
+    {
+      "slug": "jan",
+      "name": "Jan",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "jenni-ai",
+      "name": "Jenni AI",
+      "type": "added",
+      "to": "$12/mo"
+    },
+    {
+      "slug": "jetbrains-ai",
+      "name": "JetBrains AI",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "kagi",
+      "name": "Kagi",
+      "type": "added",
+      "to": "$5/mo"
+    },
+    {
+      "slug": "kiro",
+      "name": "Kiro",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "kittl",
+      "name": "Kittl",
+      "type": "added",
+      "to": "$15/mo"
+    },
+    {
+      "slug": "klap",
+      "name": "Klap",
+      "type": "added",
+      "to": "$29/mo"
+    },
+    {
+      "slug": "koala",
+      "name": "Koala",
+      "type": "added",
+      "to": "$9/mo"
+    },
+    {
+      "slug": "krisp",
+      "name": "Krisp",
+      "type": "model",
+      "from": "freemium",
+      "to": "paid"
+    },
+    {
+      "slug": "krisp",
+      "name": "Krisp",
+      "type": "free-tier",
+      "from": true,
+      "to": false
+    },
+    {
+      "slug": "langchain",
+      "name": "LangChain",
+      "type": "added",
+      "to": "$39/seat/mo"
+    },
+    {
+      "slug": "langfuse",
+      "name": "Langfuse",
+      "type": "added",
+      "to": "Free"
+    },
+    {
+      "slug": "lavender",
+      "name": "Lavender",
+      "type": "added",
+      "to": "$29/mo"
+    },
+    {
+      "slug": "letta",
+      "name": "Letta",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "lexica",
+      "name": "Lexica",
+      "type": "added",
+      "to": "$8/mo"
+    },
+    {
+      "slug": "liner",
+      "name": "Liner",
+      "type": "added",
+      "to": "$17.99/mo"
+    },
+    {
+      "slug": "litellm",
+      "name": "LiteLLM",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "llamaindex",
+      "name": "LlamaIndex",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "lm-studio",
+      "name": "LM Studio",
+      "type": "model",
+      "from": "free",
+      "to": "freemium"
+    },
+    {
+      "slug": "looka",
+      "name": "Looka",
+      "type": "price",
+      "from": "$20 one-time",
+      "to": "$35 one-time"
+    },
+    {
+      "slug": "lovart",
+      "name": "Lovart",
+      "type": "added",
+      "to": "$19.90/mo"
+    },
+    {
+      "slug": "lovo",
+      "name": "LOVO AI",
+      "type": "added",
+      "to": "$24/mo"
+    },
+    {
+      "slug": "ltx-studio",
+      "name": "LTX Studio",
+      "type": "added",
+      "to": "$15/mo"
+    },
+    {
+      "slug": "luminar-neo",
+      "name": "Luminar",
+      "type": "added",
+      "to": "$89 one-time"
+    },
+    {
+      "slug": "magic-patterns",
+      "name": "Magic Patterns",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "magnific",
+      "name": "Magnific AI",
+      "type": "price",
+      "from": "~$5.75/mo",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "make",
+      "name": "Make",
+      "type": "price",
+      "from": "$9/mo",
+      "to": "$10.59/mo"
+    },
+    {
+      "slug": "marketmuse",
+      "name": "MarketMuse",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "mastra",
+      "name": "Mastra",
+      "type": "added",
+      "to": "$25/mo"
+    },
+    {
+      "slug": "mem0",
+      "name": "Mem0",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "modal",
+      "name": "Modal",
+      "type": "added",
+      "to": "Free + usage"
+    },
+    {
+      "slug": "monica",
+      "name": "Monica",
+      "type": "added",
+      "to": "$9.90/mo"
+    },
+    {
+      "slug": "msty",
+      "name": "Msty",
+      "type": "added",
+      "to": "$149/yr"
+    },
+    {
+      "slug": "mubert",
+      "name": "Mubert",
+      "type": "added",
+      "to": "$14/mo"
+    },
+    {
+      "slug": "notta",
+      "name": "Notta",
+      "type": "added",
+      "to": "$8.17/mo"
+    },
+    {
+      "slug": "onyx",
+      "name": "Onyx",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "open-webui",
+      "name": "Open WebUI",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "openart",
+      "name": "OpenArt",
+      "type": "added",
+      "to": "$14/mo"
+    },
+    {
+      "slug": "opencode",
+      "name": "OpenCode",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "paperpal",
+      "name": "Paperpal",
+      "type": "added",
+      "to": "$12/mo"
+    },
+    {
+      "slug": "parallel-ai",
+      "name": "Parallel",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "pieces",
+      "name": "Pieces",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "pinecone",
+      "name": "Pinecone",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "pixlr",
+      "name": "Pixlr",
+      "type": "added",
+      "to": "$2.49/mo"
+    },
+    {
+      "slug": "pixverse",
+      "name": "PixVerse",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "portkey",
+      "name": "Portkey",
+      "type": "added",
+      "to": "$49/mo"
+    },
+    {
+      "slug": "qdrant",
+      "name": "Qdrant",
+      "type": "added",
+      "to": "Free"
+    },
+    {
+      "slug": "qoder",
+      "name": "Qoder",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "rask-ai",
+      "name": "Rask AI",
+      "type": "added",
+      "to": "$39/mo"
+    },
+    {
+      "slug": "read-ai",
+      "name": "Read AI",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "replicate",
+      "name": "Replicate",
+      "type": "price",
+      "from": "$0.000025/sec",
+      "to": "$0.000100/sec"
+    },
+    {
+      "slug": "resemble-ai",
+      "name": "Resemble AI",
+      "type": "price",
+      "from": "$0.0005/sec",
+      "to": "$0"
+    },
+    {
+      "slug": "resemble-ai",
+      "name": "Resemble AI",
+      "type": "free-tier",
+      "from": false,
+      "to": true
+    },
+    {
+      "slug": "retell-ai",
+      "name": "Retell AI",
+      "type": "added",
+      "to": "$0.07/min"
+    },
+    {
+      "slug": "riverside-fm",
+      "name": "Riverside",
+      "type": "added",
+      "to": "$29/mo"
+    },
+    {
+      "slug": "runpod",
+      "name": "RunPod",
+      "type": "added",
+      "to": "$0.27/hr"
+    },
+    {
+      "slug": "scalenut",
+      "name": "Scalenut",
+      "type": "added",
+      "to": "$59/mo"
+    },
+    {
+      "slug": "scenario",
+      "name": "Scenario",
+      "type": "added",
+      "to": "$15/mo"
+    },
+    {
+      "slug": "scite",
+      "name": "Scite",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "sentrydock",
+      "name": "SentryDock",
+      "type": "added",
+      "to": "$80/mo"
+    },
+    {
+      "slug": "shortwave",
+      "name": "Shortwave",
+      "type": "added",
+      "to": "$14/mo"
+    },
+    {
+      "slug": "sider",
+      "name": "Sider",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "sierra",
+      "name": "Sierra",
+      "type": "added",
+      "to": "Custom"
+    },
+    {
+      "slug": "speechmatics",
+      "name": "Speechmatics",
+      "type": "added",
+      "to": "$0.121/hr"
+    },
+    {
+      "slug": "spline",
+      "name": "Spline",
+      "type": "price",
+      "from": "$12/mo",
+      "to": "$15/mo"
+    },
+    {
+      "slug": "steel",
+      "name": "Steel",
+      "type": "added",
+      "to": "$250/mo"
+    },
+    {
+      "slug": "stitch",
+      "name": "Stitch",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "subframe",
+      "name": "Subframe",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "submagic",
+      "name": "Submagic",
+      "type": "added",
+      "to": "$19/mo"
+    },
+    {
+      "slug": "sunsama",
+      "name": "Sunsama",
+      "type": "added",
+      "to": "$17/mo"
+    },
+    {
+      "slug": "superwhisper",
+      "name": "superwhisper",
+      "type": "added",
+      "to": "$8.49/mo"
+    },
+    {
+      "slug": "tabby",
+      "name": "Tabby",
+      "type": "added",
+      "to": "$19/user/mo"
+    },
+    {
+      "slug": "tabnine",
+      "name": "Tabnine",
+      "type": "price",
+      "from": "$39/user/mo",
+      "to": "Custom"
+    },
+    {
+      "slug": "tabnine",
+      "name": "Tabnine",
+      "type": "model",
+      "from": "paid",
+      "to": "contact"
+    },
+    {
+      "slug": "tana",
+      "name": "Tana",
+      "type": "added",
+      "to": "$15/user/mo"
+    },
+    {
+      "slug": "tana-outliner",
+      "name": "Tana Outliner",
+      "type": "added",
+      "to": "$8/mo"
+    },
+    {
+      "slug": "taplio",
+      "name": "Taplio",
+      "type": "added",
+      "to": "$39/mo"
+    },
+    {
+      "slug": "tavily",
+      "name": "Tavily",
+      "type": "added",
+      "to": "$30/mo"
+    },
+    {
+      "slug": "tavus",
+      "name": "Tavus",
+      "type": "price",
+      "from": "$59/mo",
+      "to": "$22/mo"
+    },
+    {
+      "slug": "tidio",
+      "name": "Tidio",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "trae",
+      "name": "Trae",
+      "type": "price",
+      "from": "$3/mo",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "treblo",
+      "name": "Treblo",
+      "type": "added",
+      "to": "$9.99/mo"
+    },
+    {
+      "slug": "trigger-dev",
+      "name": "Trigger.dev",
+      "type": "added",
+      "to": "$10/mo"
+    },
+    {
+      "slug": "tripo",
+      "name": "Tripo",
+      "type": "price",
+      "from": "$19.9/mo",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "uizze",
+      "name": "UIZZE",
+      "type": "added",
+      "to": "$9/mo"
+    },
+    {
+      "slug": "undermind",
+      "name": "Undermind",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "unstructured",
+      "name": "Unstructured",
+      "type": "added",
+      "to": "$0.03/page"
+    },
+    {
+      "slug": "vecbase",
+      "name": "Vecbase",
+      "type": "added",
+      "to": "$20/mo"
+    },
+    {
+      "slug": "viggle",
+      "name": "Viggle",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "visily",
+      "name": "Visily",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "vizard",
+      "name": "Vizard",
+      "type": "added",
+      "to": "$29/mo"
+    },
+    {
+      "slug": "vizcom",
+      "name": "Vizcom",
+      "type": "added",
+      "to": "$49/user/mo"
+    },
+    {
+      "slug": "wan",
+      "name": "Wan",
+      "type": "added",
+      "to": "$5/mo"
+    },
+    {
+      "slug": "weaviate",
+      "name": "Weaviate",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "wellsaid",
+      "name": "WellSaid",
+      "type": "added",
+      "to": "$0"
+    },
+    {
+      "slug": "writer",
+      "name": "Writer",
+      "type": "added",
+      "to": "$29/user/mo"
+    },
+    {
+      "slug": "zencoder",
+      "name": "Zencoder",
+      "type": "added",
+      "to": "$45/mo"
+    },
+    {
+      "slug": "zep",
+      "name": "Zep",
+      "type": "added",
+      "to": "$125/mo"
+    }
+  ]
 }
